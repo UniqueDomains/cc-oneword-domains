@@ -2104,7 +2104,7 @@ be21192c-fc76-48a3-95b6-a3dc4ff7cefe,realtime.cc,resell,72,30,9,Dynadot Inc,29/0
 8db90c35-dc70-4081-8a2a-89edd0aee0e3,rearmost.cc,available,42,1,8,,,
 6ba7b0fe-05f7-4465-b674-7cb4406ecac3,rearward.cc,available,68,1,8,,,
 47b13cd0-2082-44a9-abeb-9180345e99f3,rearwards.cc,available,50,1,9,,,
-265a4f4c-2dac-4b30-9ead-7db43a953f4d,received.cc,available,66,,8,,,
+265a4f4c-2dac-4b30-9ead-7db43a953f4d,received.cc,available,66,10,8,,,
 e6756bfc-4964-4b25-af80-1a9c09bb0803,recognised.cc,available,78,3,10,,,
 5b3f3a66-8669-42a3-a621-e6d744e8b615,recognized.cc,available,78,3,10,,,
 a75b1a38-bec2-4180-a3c1-97d03438fcc3,recovering.cc,available,70,6,10,,,
