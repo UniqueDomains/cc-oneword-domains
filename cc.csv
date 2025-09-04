@@ -1764,6 +1764,7 @@ fc8d8ab9-663a-45b2-8c14-97eac00623c6,kneedeep.cc,available,54,3,9,,,
 34d110c3-d3c6-41e4-b2b1-1467fdd0b210,kookie.cc,available,72,6,6,,,
 dc8fe336-da8f-46a0-aa9b-07bbe4d9a53a,kooky.cc,available,74,8,5,,,
 ccae205b-80e7-4923-a532-97d69aefb226,laborious.cc,available,50,1,9,,,
+3c186ba8-8194-4b78-b163-96a2aee86af3,lacking.cc,available,82,4,7,,,
 24ecd447-9c13-447d-add2-c5c1d5bf1823,lambent.cc,available,64,5,7,,,
 071c0e09-8cda-4b52-af89-5d7d2b42f86d,lateron.cc,available,40,2,8,,,
 1682dfe6-27a7-4cb5-9d99-ae2b3f60a3da,laudable.cc,available,58,4,8,,,
@@ -2002,6 +2003,7 @@ d5c3ffd5-9ae2-49e9-a256-5dfc544a6231,phoney.cc,available,79,3,6,,,
 a34aae21-fe7d-4a67-8d5d-bfc5123bfc3a,pimpled.cc,available,41,1,7,,,
 0b3adbfb-b183-4d86-add6-7990a10a0e2d,pimply.cc,available,41,1,6,,,
 c925fc92-799d-42bc-a872-5536708b46f3,pink.cc,resell,89,31,4,DropCatch.com 565 LLC,29/12/2021 09:01,29/12/2025 09:01
+fab7bc0a-6900-4214-b111-4bef9850c5da,piss.cc,resell,112,20,4,"Spaceship, Inc.",16/04/2019 08:06,16/04/2027 08:06
 77ae6f39-800e-4ebf-9f09-a889ef7a8547,pissed.cc,available,39,4,6,,,
 d1c7e97b-fd9c-400b-aa35-aead5a52dbd6,pissedoff.cc,available,33,3,10,,,
 b4de9064-cfd8-4e8d-9943-6466050416d0,pitted.cc,available,56,2,6,,,
@@ -2460,8 +2462,8 @@ d8433e2c-c6ca-431d-af94-8c7b1b3c36f7,unending.cc,available,60,5,8,,,
 3b555170-8fbf-4f8c-9b9e-c67f8715f3a0,unhappy.cc,resell,100,13,7,"NameSilo, LLC",19/11/2015 15:41,19/11/2025 15:41
 a2369eb9-ecd6-4b8a-8b16-758c7f7a6b02,uniform.cc,resell,108,17,7,Dynadot Inc,07/11/2010 06:07,07/11/2025 06:07
 ddb9a668-be88-4919-bb1a-c62ae28c2f2a,unify.cc,resell,72,35,5,Dynadot Inc,08/10/2023 08:04,08/10/2025 08:04
-afef1b68-3600-4a01-abba-47ae466f87ff,union.cc,resell,90,,5,"Alibaba Cloud Computing (Beijing) Co., Ltd.",22/07/2015 08:07,22/07/2026 08:07
-a58ded9f-67e2-414f-ba41-9dc5d7361418,universal.cc,resell,96,,9,"GoDaddy.com, LLC",23/08/2003 04:03,23/08/2026 04:03
+afef1b68-3600-4a01-abba-47ae466f87ff,union.cc,resell,90,36,5,"Alibaba Cloud Computing (Beijing) Co., Ltd.",22/07/2015 08:07,22/07/2026 08:07
+a58ded9f-67e2-414f-ba41-9dc5d7361418,universal.cc,resell,96,20,9,"GoDaddy.com, LLC",23/08/2003 04:03,23/08/2026 04:03
 f77a245c-9789-40dc-895c-7d9178f3b55d,unkeyed.cc,available,37,1,7,,,
 31391692-e586-4947-8606-4a636113804b,unmannered.cc,available,33,1,10,,,
 d9bd91ea-979c-41c7-9f6a-2610ba60582b,unmannerly.cc,available,41,1,10,,,
@@ -2474,6 +2476,7 @@ d810b3e1-53ec-4f3c-97f3-0246d3bffdaf,unsound.cc,available,58,5,7,,,
 6049de32-f6fd-46f7-b483-1f68a1206e85,untrue.cc,available,60,3,6,,,
 a3b0fa88-5d31-463e-a8e3-a45c38aeabb9,untypical.cc,available,48,3,9,,,
 b1d4ad49-0972-4cfb-827a-a7374c9d2dd3,unwell.cc,available,60,4,6,,,
+395261cb-bd94-456d-8d9e-6e852e570a95,upper.cc,resell,84,16,5,Dynadot Inc,12/01/2024 09:03,12/01/2026 09:03
 dfb7ebab-6696-4a27-a127-51e736cc786e,uppercase.cc,available,104,9,9,,,
 25c65681-d98a-42b3-b1e6-a221161205f3,upset.cc,available,90,11,5,,,
 28259f87-7504-41e1-8757-91a55b0ed5ee,upstage.cc,available,98,7,7,,,
@@ -2481,12 +2484,18 @@ dfb7ebab-6696-4a27-a127-51e736cc786e,uppercase.cc,available,104,9,9,,,
 a995ad2b-05c6-4250-97fd-cbb6d8325e1d,uptodate.cc,available,70,8,10,,,
 fb795f2d-f3ee-4c2c-9fb6-aa1c79e4050c,uraemic.cc,available,56,0,7,,,
 2cd3033d-0017-4469-8c72-142d4928c36f,uremic.cc,available,56,1,6,,,
+21a564ce-69ba-4a88-97a5-e367c2ef8136,utility.cc,resell,82,21,7,"GoDaddy.com, LLC",05/12/2016 01:28,05/12/2025 01:28
 798c3c2f-70d0-41fc-9a88-97fbe88f09c9,utmost.cc,available,92,8,6,,,
 92936866-8602-4e30-b0d5-f2114b54fb92,vacuous.cc,available,38,3,7,,,
+1a4efba6-3c9f-4b6f-8efa-e750bf9ae3fd,valid.cc,resell,72,18,5,"Alibaba Cloud Computing (Beijing) Co., Ltd.",06/06/2014 08:06,06/06/2026 08:06
+56a1482f-27ca-4b5e-8f7a-e02de8dea5d7,valuable.cc,resell,88,12,8,Gname 112 Inc,07/12/2024 09:03,07/12/2025 09:03
 0c0cfcfb-72a8-407c-8f4d-2a0a854314ee,van.cc,resell,90,28,3,"NameCheap, Inc.",06/09/2005 04:47,06/09/2026 04:47
+82e44c63-8d7f-4c3a-a802-a79029ab4e3e,varied.cc,available,66,5,6,,,
 3e88b531-8e99-44c6-a084-743ca7bce67a,vary.cc,resell,90,8,4,Dynadot Inc,13/01/2025 09:03,13/01/2026 09:03
+310d074b-ea44-419b-a676-d5c4e9cc2aff,velvet.cc,resell,112,29,6,"NameSilo, LLC",18/10/2021 08:01,18/10/2025 08:01
 8e3b8a60-3c6a-46cd-aa67-c416897f9f1f,venerable.cc,available,88,11,9,,,
 21d8371e-758f-433e-a91d-7f3f0a558b64,vengeful.cc,available,51,6,8,,,
+b6b8535f-088c-4c68-878c-0588826663de,verbal.cc,resell,104,7,6,"Spaceship, Inc.",29/03/2019 08:03,29/03/2026 08:03
 7a260d02-a97c-494c-9d1d-772241c911a6,vermifuge.cc,available,74,1,9,,,
 91bc4b4a-cb06-420e-8cdb-b870d2d25a75,vertical.cc,resell,80,31,8,"GoDaddy.com, LLC",15/07/2019 08:01,15/07/2026 08:01
 2687de71-d621-41ea-850a-1b8464e1c207,vexation.cc,available,42,3,8,,,
@@ -2498,11 +2507,13 @@ a73e2f78-c109-415f-8f9e-cb9df2c2a609,vindicated.cc,available,68,3,10,,,
 883838de-bea9-4dd3-90f1-206d3cb565d1,vinegarish.cc,available,46,1,10,,,
 efc43b2c-1939-495a-97cc-943f793a0cd2,vinegary.cc,available,50,1,8,,,
 6dcfa8d1-8dec-4b8b-8fd3-af38d401895a,violated.cc,available,52,10,8,,,
+9200563e-aaf4-4498-8033-328382fe6476,visual.cc,resell,88,30,6,"22net, Inc.",09/11/2013 09:16,09/11/2025 09:16
 2db7ef62-2855-4317-bc23-30c6b8ead696,visualise.cc,available,78,8,9,,,
 aaa071b1-836f-416e-a824-e2f21f9c24aa,visualize.cc,resell,78,23,9,Gname 159 Inc,19/02/2025 09:03,19/02/2026 09:03
 2e23f3c2-8a62-4c40-b33d-248d239421b2,vitriolic.cc,available,44,1,9,,,
 23ebc942-304f-4ab9-a138-08697e1ddeca,vivid.cc,resell,94,27,5,"Chengdu West Dimension Digital Technology Co., Ltd.",08/04/2024 08:02,08/04/2026 08:02
 437a4897-b417-4f60-896b-f4d4513f4094,voiceless.cc,available,38,6,9,,,
+7712587d-3e49-45f0-a317-d34b69852acc,walking.cc,resell,96,15,7,Dynadot Inc,02/12/2023 05:11,02/12/2025 05:11
 acbb69f9-6acb-42d3-afeb-1ed47e4e10c0,walloping.cc,available,70,1,9,,,
 438d6af3-1402-4ad6-bb88-4d1057bd3751,wannabee.cc,available,48,3,8,,,
 e110c1a2-7b3a-4b4c-96b7-a5005146eaf4,watchful.cc,available,64,6,8,,,
@@ -2511,10 +2522,11 @@ c8e26d0f-f6f9-4102-a142-e4165ed42668,waterless.cc,available,44,7,9,,,
 f1b31f5a-e5c8-49c5-b1cd-1f1d074779cf,wear.cc,resell,70,23,4,"GoDaddy.com, LLC",19/06/2009 13:09,19/06/2026 13:09
 8dc09162-1742-44e1-9f7f-d278a82924d3,weary.cc,available,64,5,5,,,
 472d8705-75b1-4703-81bb-92f50ee3349b,weird.cc,resell,64,33,5,"GoDaddy.com, LLC",29/06/2019 10:34,29/06/2026 10:34
+3ecf217b-9354-4fcc-8a6a-b22512581b9e,welfare.cc,resell,96,14,7,Dynadot Inc,08/02/2024 04:42,08/02/2026 04:42
 9354b535-f23e-4c55-a53f-e1d607e6aad0,welltimed.cc,available,50,3,10,,,
 031addbf-7de2-44d2-80ef-dc552032957a,wellworn.cc,available,42,3,9,,,
 002f8c99-e589-4555-88aa-274adfce0898,whacky.cc,available,62,3,6,,,
-b364659c-c0de-4583-bc21-b5d7d38e179e,whatsoever.cc,available,60,4,10,,,
+b364659c-c0de-4583-bc21-b5d7d38e179e,whatsoever.cc,available,60,3,10,,,
 ebdcdd1d-39fc-47a7-88fc-79ea08592e28,wheel.cc,resell,100,19,5,"NameCheap, Inc.",07/06/2020 08:01,07/06/2033 08:01
 db27d14d-97a4-4853-a656-597a52909ee6,wheezing.cc,available,44,2,8,,,
 59c39851-1e0a-491c-a514-3154323808d8,wheezy.cc,available,42,4,6,,,
