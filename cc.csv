@@ -1,7 +1,7 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 ced806ec-26dd-4899-bb31-fb01fd20c8a4,abactinal.cc,available,50,1,9,,,
 2d33b70c-07c5-46e1-89a7-c840ccceaa23,abaft.cc,available,43,2,5,,,
-135efc2f-7636-4098-ada3-625d13c6d817,abandoned.cc,available,58,10,9,,,
+135efc2f-7636-4098-ada3-625d13c6d817,abandoned.cc,available,58,7,9,,,
 57ae61d9-a731-4455-a6e8-8ae4a6d655fd,abashed.cc,available,60,2,7,,,
 a3850e20-4d80-4d47-b2ad-c43c2c6d08a2,abasic.cc,available,54,2,6,,,
 fa754593-6521-435b-bb01-9a6ca5f96549,abatable.cc,available,54,1,8,,,
@@ -9,7 +9,7 @@ fa754593-6521-435b-bb01-9a6ca5f96549,abatable.cc,available,54,1,8,,,
 0cd65244-a3c4-4b18-8979-576964f671f6,abaxial.cc,available,54,2,7,,,
 81f062b0-60ca-4d4d-871d-b56431e591d4,abbatial.cc,available,50,1,8,,,
 48e08f00-bb9a-4014-8811-73061d14e3f3,abdicable.cc,available,50,1,9,,,
-e6bc4c3e-9e78-4b8c-92fe-83490fe0b305,abdominal.cc,available,82,1,9,,,
+e6bc4c3e-9e78-4b8c-92fe-83490fe0b305,abdominal.cc,available,82,5,9,,,
 959435b8-e3ae-42fd-8611-91ddd2f4952f,abdominous.cc,available,56,1,10,,,
 599e7ac8-597b-4588-8074-c0b476d34486,abducens.cc,available,54,1,8,,,
 4f031eb7-b837-481c-8938-f860d96d20df,abducent.cc,available,68,1,8,,,
@@ -18,7 +18,7 @@ f6d399b1-bb23-49d7-82e9-9f243ebde996,abducting.cc,available,50,1,9,,,
 b6d55f8e-4ed0-4901-b4dd-4a1317506253,aberdonian.cc,available,68,1,10,,,
 e385a340-b762-4e76-80a4-9261775903ec,aberrant.cc,available,74,7,8,,,
 0d913bbd-b360-424b-b405-407effb9a976,abeyant.cc,available,56,2,7,,,
-2b0bf451-89c8-49a9-8e15-9db74554416e,abhorrent.cc,available,54,1,9,,,
+2b0bf451-89c8-49a9-8e15-9db74554416e,abhorrent.cc,available,54,3,9,,,
 43b0bf0a-7729-4d77-ae8e-58536eda652c,abient.cc,available,54,1,6,,,
 d8082ebe-3e4a-44aa-aef4-2655df272c50,abit.cc,resell,66,16,5,"Spaceship, Inc.",07/07/2025 08:48,07/07/2026 08:48
 69b21a11-58de-48a6-be07-29dfa357dcc9,abkhas.cc,available,68,1,6,,,
@@ -43,15 +43,15 @@ bdd4e7c1-bdf6-4034-88ee-73b9eec61280,aboral.cc,available,54,2,6,,,
 e5e0020f-6741-4990-af46-e2edd0e3299e,abreast.cc,available,72,3,7,,,
 d64c48b5-d96d-4fb1-9ca8-290aec7b0d2c,abridged.cc,available,58,5,8,,,
 4ff03ea6-1668-4889-981f-4097486c32da,abroach.cc,available,82,1,7,,,
-d38b019f-6624-4569-90e7-5233eb0b8fde,abroad.cc,resell,92,16,6,"22net, Inc.",29/11/2016 00:57,29/11/2025 00:57
+d38b019f-6624-4569-90e7-5233eb0b8fde,abroad.cc,resell,92,10,6,"22net, Inc.",29/11/2016 00:57,29/11/2026 00:57
 4554a3e4-c763-49f3-ac71-bdccacb4f0e4,abscessed.cc,available,41,1,9,,,
 421ddab3-c672-40c0-94b4-abcd19dc6b24,absence.cc,available,64,5,7,,,
 7097fc7f-32f6-4de8-9780-52e3c69d2f26,absolutist.cc,available,72,2,10,,,
 440db70e-ccf2-4d44-8e39-ce3cd1904a15,absolved.cc,available,64,2,8,,,
 5e87058e-dcdb-4b29-a93f-d59ca9b95c96,absorbable.cc,available,80,1,10,,,
-4dab5b87-dc2c-4fa5-b31f-0a2b2c2c7732,absorbed.cc,available,72,7,8,,,
+4dab5b87-dc2c-4fa5-b31f-0a2b2c2c7732,absorbed.cc,available,72,2,8,,,
 209d50b9-f2ff-4683-989a-e63a7b1c3ae3,absorbent.cc,available,82,3,9,,,
-1570dd5b-2fce-4154-84a9-f0bb6eb3c8aa,absorbing.cc,available,70,5,9,,,
+1570dd5b-2fce-4154-84a9-f0bb6eb3c8aa,absorbing.cc,available,70,3,9,,,
 e7f0498c-5cfa-4af9-b12b-bfda5ebfd718,absorptive.cc,available,78,1,10,,,
 1807546f-c84c-435c-9529-dd259355f5f1,abstainer.cc,available,60,1,9,,,
 37f0785a-61da-43c2-9b5b-b1477b8e006f,abstemious.cc,available,60,1,10,,,
@@ -347,7 +347,7 @@ b88fd3e7-18fe-49fe-8b26-aafcc5fa3a8c,alabaster.cc,available,82,8,9,,,
 4b756583-593b-4c47-be88-2da70adb2265,alacarte.cc,available,58,12,10,,,
 40b939cf-88a6-463e-94b2-340ebc474952,alacritous.cc,available,58,1,10,,,
 ade55204-0de6-4b44-b66c-5782d518b059,aladdin.cc,resell,76,22,7,Dynadot Inc,08/02/2024 09:01,08/02/2026 09:01
-9a1f3f0c-a8b4-4bb5-909b-fca82ccc9a81,alamode.cc,available,96,12,9,,,
+9a1f3f0c-a8b4-4bb5-909b-fca82ccc9a81,alamode.cc,available,96,11,9,,,
 886ee35c-6e10-4555-8bb1-932ec3f5aebd,alar.cc,available,60,6,4,,,
 ce0dd462-24ee-4bcd-8986-8c02811cb3b0,alarmed.cc,available,52,3,7,,,
 f7c45d46-04da-4443-b43f-666f38a4cf87,alarming.cc,available,46,3,8,,,
@@ -823,7 +823,7 @@ c5ee2071-cb59-443e-a1cf-0ab91e8c9afa,armenian.cc,available,82,11,8,,,
 f78702ce-64a8-4b07-8a54-b822b0d5ac64,armorial.cc,available,68,2,8,,,
 01fc72a3-3524-4c61-bc90-a90bada75394,armoured.cc,available,58,3,8,,,
 bb8fac40-c4fb-48ae-95ce-7b69f44b6fc9,aroid.cc,available,54,3,5,,,
-ff879f60-17dd-49ab-a7a1-cdae7d334eca,around.cc,resell,94,24,6,"Spaceship, Inc.",11/04/2024 08:02,11/04/2026 08:02
+ff879f60-17dd-49ab-a7a1-cdae7d334eca,around.cc,resell,94,19,6,"Spaceship, Inc.",11/04/2024 08:02,11/04/2026 08:02
 d799c56f-c081-4b3c-89e9-3dd63fcb72a1,aroused.cc,available,68,3,7,,,
 e4cc71a7-7f5f-4bdf-81e2-dfb28df95892,arranged.cc,available,70,5,8,,,
 03608753-631a-4382-b6a3-902595d17da9,arrayed.cc,available,58,3,7,,,
@@ -1352,13 +1352,13 @@ c3bce765-fe09-460f-aa79-e801519137a3,circle.cc,resell,68,39,6,"GoDaddy.com, LLC"
 6d3a8c28-a2b1-41bd-88e1-63e2875478e3,circular.cc,resell,106,26,8,"NameCheap, Inc.",31/07/2022 04:37,31/07/2026 04:37
 da350e63-4351-49c6-9632-c70ab8ed1571,clayey.cc,available,50,1,6,,,
 68ba41fc-3628-43a4-bb07-5e7c9ee35964,cleansing.cc,available,82,4,9,,,
-6b11eeba-2a9a-489f-97b7-396120c6ba45,cleared.cc,available,74,11,7,,,
+6b11eeba-2a9a-489f-97b7-396120c6ba45,cleared.cc,available,74,7,7,,,
 6d0b5476-53e6-40b8-ba71-a6033d7cb4d8,clearly.cc,resell,77,15,7,"GoDaddy.com, LLC",25/08/2019 08:05,25/08/2027 08:05
 ce1d984c-831f-40ef-9995-359b61b9f112,clever.cc,resell,74,34,6,"Spaceship, Inc.",07/08/2018 08:00,07/08/2026 08:00
 fbbca8b3-297a-460d-846f-bbdc9231751b,climbable.cc,available,54,1,9,,,
 736800b1-68cb-4a11-b247-266698e7079f,clinically.cc,available,56,8,10,,,
 e6b4f337-5cae-4da8-8cae-c771f24680b6,closest.cc,available,68,3,7,,,
-5ef4c91f-6aef-4055-aed8-659e334d1444,closeto.cc,available,58,6,8,,,
+5ef4c91f-6aef-4055-aed8-659e334d1444,closeto.cc,available,58,3,8,,,
 9324f8da-a5fd-4892-8588-ca2db2f4d9a2,clumsy.cc,available,74,7,6,,,
 01b0a91c-73a1-4f51-9b2d-fc828d938d80,clustered.cc,available,58,4,9,,,
 45128e37-aa46-4763-91cf-0ceb7e48d30c,clxv.cc,available,60,1,4,,,
@@ -1561,7 +1561,7 @@ fb6fe509-9596-4635-a7d5-a646aa37ee92,endemic.cc,available,76,7,7,,,
 eebc3dcb-a2a4-492b-80a3-8ee0da9bf1ab,energizing.cc,available,76,4,10,,,
 0473cce9-fdfa-4806-b778-d04ec98b6ef2,enervated.cc,available,36,1,9,,,
 997ab1b5-bf27-4680-b991-a4297786bf08,engagement.cc,resell,81,17,10,Gname 239 Inc,12/02/2025 09:02,12/02/2026 09:02
-465a01ba-c097-40f4-bdfc-49751035c069,engrossed.cc,available,72,5,9,,,
+465a01ba-c097-40f4-bdfc-49751035c069,engrossed.cc,available,72,1,9,,,
 e27638de-e4fb-41e6-bb02-a86789396fcf,engrossing.cc,available,86,1,10,,,
 200313de-42f8-453d-a708-94e21caaba45,enlarged.cc,available,66,1,8,,,
 12005370-020f-4115-8294-c7bf761001c5,enlivening.cc,available,48,2,10,,,
@@ -1672,7 +1672,7 @@ b299660f-3cdc-48d8-8b1b-6e3ca46cc5ae,float.cc,resell,92,24,5,"NameCheap, Inc.",1
 f4459171-898d-47c2-9f0d-53c546b112bb,foolish.cc,available,60,18,7,,,
 0224f8dc-9acf-49a4-8ba9-673931230d05,force.cc,resell,72,25,5,Dynadot Inc,05/06/2018 08:00,05/06/2026 08:00
 588f852b-f9ba-42d0-b5db-27d4d8d90bd7,foreign.cc,resell,78,11,7,Dynadot Inc,10/04/2020 10:39,10/04/2026 10:39
-5cff6680-bd0c-47fb-8fe1-ab81bfcd47f8,forgiving.cc,available,96,8,9,,,
+5cff6680-bd0c-47fb-8fe1-ab81bfcd47f8,forgiving.cc,available,96,3,9,,,
 0c159d30-0149-4b48-b07d-4a18637be8c4,former.cc,resell,92,11,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),18/01/2025 09:02,18/01/2026 09:02
 6ed1122a-d2c7-426a-8594-4cdc3ebc8194,fortieth.cc,available,68,1,8,,,
 99f319d3-37a2-41ed-b1c5-f1ff95c96c11,fortynine.cc,available,56,3,10,,,
@@ -1886,7 +1886,7 @@ b663486c-4793-4199-9c64-d9553812df82,jealous.cc,resell,84,6,7,"Spaceship, Inc.",
 0c40c062-8a78-418f-933c-746ebd8079d3,joined.cc,available,70,8,6,,,
 3bc9f719-1798-4f64-b3df-0db537047f82,joint.cc,resell,108,18,5,Dynadot Inc,16/01/2024 12:21,16/01/2026 12:21
 25b029ab-25f6-45ec-808c-7644996c9ae8,jointly.cc,available,66,5,7,,,
-8e5f93dd-fc1f-47f7-97ab-0de03a237403,justabout.cc,available,58,2,10,,,
+8e5f93dd-fc1f-47f7-97ab-0de03a237403,justabout.cc,available,58,10,10,,,
 75836100-2465-4b8c-85b0-83a4abc2d6d6,justified.cc,available,66,9,9,,,
 dc02804c-9002-4341-85a7-e62162070576,keen.cc,resell,64,24,4,Xin Net Technology Corporation,27/11/2023 09:04,27/11/2025 09:04
 0861b3e4-5501-4f30-a9c9-d9602738c7b9,keister.cc,available,34,2,7,,,
@@ -2116,7 +2116,7 @@ ece8d33c-dc0c-459d-83b9-c4ef6ed18108,otic.cc,available,58,4,4,,,
 0b3aff9a-46cf-458a-92ed-72ec8fbb3055,outlaw.cc,resell,62,21,6,"Spaceship, Inc.",06/12/2024 08:35,06/12/2025 08:35
 cf1171ed-9564-489d-badc-6ca1f19ef1b4,overhang.cc,available,70,4,8,,,
 195c6dbe-d198-4197-b490-7184c14e148d,overnight.cc,resell,112,14,9,Dynadot Inc,07/07/2024 05:30,07/07/2026 05:30
-028fd275-fd04-4537-a4f1-6e25309bc0d0,overseas.cc,resell,68,14,8,Unstoppable Domains Inc.,12/03/2024 07:12,12/03/2026 07:12
+028fd275-fd04-4537-a4f1-6e25309bc0d0,overseas.cc,resell,68,10,8,Unstoppable Domains Inc.,12/03/2024 07:12,12/03/2026 07:12
 abdd2482-2dee-48de-a25f-fb92c985c18e,painkiller.cc,available,54,7,10,,,
 86fef3b3-576c-456d-8bfa-e039b919e80f,painpill.cc,available,54,1,9,,,
 79d76c17-f95e-429a-8853-97f48c119473,palliative.cc,available,84,6,10,,,
@@ -2308,7 +2308,7 @@ a38137df-c921-4606-854b-8254e8faa4f5,relief.cc,resell,98,18,6,"humbly, LLC - ccT
 fa91df0f-dbd2-4a1a-9c28-d0b462424f37,relieved.cc,available,66,3,8,,,
 84456d03-7cf2-4eb7-aa6d-784a0d32fb0a,reminder.cc,resell,68,13,8,Dynadot3 LLC,24/04/2016 08:06,24/04/2026 08:06
 b65c3f92-64d9-4e12-b6fa-a1ed36390669,remote.cc,resell,108,40,6,"GoDaddy.com, LLC",16/12/2008 09:04,16/12/2026 09:04
-17cabd13-ffab-449f-aba3-559d897fe84d,remove.cc,resell,100,15,6,"Spaceship, Inc.",22/09/2011 22:03,22/09/2026 22:03
+17cabd13-ffab-449f-aba3-559d897fe84d,remove.cc,resell,100,12,6,"Spaceship, Inc.",22/09/2011 22:03,22/09/2026 22:03
 bcdcb940-6d9a-4719-96d4-b92578d641b6,reply.cc,resell,94,23,5,"GoDaddy.com, LLC",28/11/2004 09:28,28/11/2025 09:28
 b421fc88-b581-4642-abdb-c51e7199b0fb,reproving.cc,available,66,1,9,,,
 d879fd37-814c-482e-bf1a-7b728bdef3ae,repugnant.cc,available,52,2,9,,,
@@ -2354,7 +2354,7 @@ aa84e3c7-9e35-4a79-897f-2728965c8565,roiled.cc,available,44,2,6,,,
 075c4e56-4763-49b9-9315-b22bb383a0e4,romantic.cc,resell,74,12,8,Porkbun LLC,27/12/2005 23:10,27/12/2026 23:10
 ff20d6bf-2fa4-46ad-82fc-234e661fed6b,roomy.cc,resell,89,8,5,Dynadot Inc,10/05/2023 12:16,10/05/2026 12:16
 cb9e6a06-ed21-4eca-8191-44b7dd572888,rotated.cc,available,65,6,7,,,
-0f56dfb1-f0c2-4783-8397-d7e45eb2d22c,roughly.cc,available,62,8,7,,,
+0f56dfb1-f0c2-4783-8397-d7e45eb2d22c,roughly.cc,available,62,3,7,,,
 343c24a2-ee68-4a87-af51-97448bfea988,roughshod.cc,available,40,1,9,,,
 60fa3e9d-cda8-4f1d-b5a2-7f5e1c95b921,round.cc,resell,48,22,5,Gname 266 Inc,05/03/2025 09:03,05/03/2026 09:03
 b04944a3-1384-43e6-bb45-0e905707f9a9,rudderless.cc,available,50,2,10,,,
@@ -2393,7 +2393,7 @@ f50b547f-bffe-47ff-958d-8c249e57660e,scrubbed.cc,available,60,4,8,,,
 13212c5d-edfc-432b-a38c-86900d82418a,seasick.cc,available,52,3,7,,,
 cffcda08-e2e5-4f3e-9b38-846b08b732d5,seasonably.cc,available,44,1,10,,,
 3b37221f-6009-4d87-8d06-c4b076dd1c5b,seated.cc,available,74,5,6,,,
-eb0de3ff-aeaf-4e96-99f8-50ad899a48c8,second.cc,resell,120,25,6,"22net, Inc.",04/02/2013 09:01,04/02/2026 09:01
+eb0de3ff-aeaf-4e96-99f8-50ad899a48c8,second.cc,resell,120,22,6,"22net, Inc.",04/02/2013 09:01,04/02/2026 09:01
 941a77ab-49da-4747-be53-f7518b41ddf8,secondary.cc,available,78,14,9,,,
 99197c6c-cd1e-4d21-b1a5-920ba825bb13,secondly.cc,available,54,3,8,,,
 29000821-bf56-4039-a285-b229dca015fb,sedative.cc,available,76,1,8,,,
@@ -2630,7 +2630,8 @@ bcb72f15-8ee7-4768-8313-0280fdc50088,treed.cc,available,51,5,5,,,
 2be06f82-0a1c-45d8-9423-63553d88f9cb,trend.cc,resell,76,28,5,"22net, Inc.",24/08/2016 08:22,24/08/2026 08:22
 c7565af3-942c-44a8-82df-5adb150520f7,triad.cc,resell,56,16,5,Dynadot Inc,01/12/2022 18:46,01/12/2026 18:46
 2b2f3e86-b6cb-4173-9380-26c911d054e9,trick.cc,resell,106,14,5,Dynadot Inc,22/09/2022 09:16,22/09/2026 09:16
-c74099c7-e592-401b-94bf-6bfd1f2de2c3,trinity.cc,resell,72,21,7,"Spaceship, Inc.",29/08/2014 19:56,29/08/2026 19:56
+c74099c7-e592-401b-94bf-6bfd1f2de2c3,trinity.cc,resell,72,17,7,"Spaceship, Inc.",29/08/2014 19:56,29/08/2026 19:56
+5152e9af-bd0c-42a1-a949-45edae922187,trio.cc,resell,80,19,4,"GoDaddy.com, LLC",10/09/2014 20:00,10/09/2026 20:00
 e5ca5dce-3d90-4541-a7d6-99188a8a93cb,triple.cc,resell,104,19,6,Dynadot Inc,30/03/2022 06:44,30/03/2026 06:44
 bb4c0e5f-f9c1-44ba-bc87-5afee1011899,trite.cc,available,66,4,5,,,
 759b2b70-f070-459c-b0c8-9b50fcae1643,trounce.cc,available,74,3,7,,,
@@ -2640,7 +2641,8 @@ bb4c0e5f-f9c1-44ba-bc87-5afee1011899,trite.cc,available,66,4,5,,,
 3e619f3e-c41a-43e8-bd63-36b160847a78,tush.cc,available,44,5,4,,,
 5508602a-64ea-45a9-a266-5647312590d4,twelfth.cc,available,58,2,7,,,
 bc90ef87-bf11-41e9-ad09-1b0956379b0e,twelve.cc,resell,88,17,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/11/2014 09:05,15/11/2026 09:05
-54953d96-18b2-4f47-8591-6a7a0124217f,twentieth.cc,available,92,7,9,,,
+54953d96-18b2-4f47-8591-6a7a0124217f,twentieth.cc,available,92,2,9,,,
+f3837c0e-87ae-4442-a63a-d1716f718614,twenty.cc,resell,80,10,6,Gname 183 Inc,03/10/2025 08:04,03/10/2026 08:04
 110f1b93-9ecf-4e73-a754-777ff9fb8cca,twodozen.cc,available,62,1,9,,,
 8c5e2bed-902b-48df-a757-35111f202d9f,twohanded.cc,available,64,2,10,,,
 bae0df86-4926-4a89-820d-cc0654adea56,twoscore.cc,available,54,2,8,,,
@@ -2778,7 +2780,7 @@ fce96ae9-978f-4577-b4f7-084c46be7e7b,xlvi.cc,available,56,3,4,,,
 6db93f5e-efc8-4fcd-b7c4-85ce0bd28198,xlvii.cc,available,56,2,5,,,
 9b551dc5-024e-4799-bdcb-553e2a4adc9a,xlviii.cc,available,56,1,6,,,
 dc6f84c5-9b3f-4451-a678-f76bef485dd6,xviii.cc,available,66,5,5,,,
-ccf0910d-e8a5-43c5-9f53-c1d2fec3de17,xxvi.cc,available,66,5,4,,,
+ccf0910d-e8a5-43c5-9f53-c1d2fec3de17,xxvi.cc,available,66,2,4,,,
 d38b96d1-d110-4bb9-aa2a-5223bd6d8d08,xxvii.cc,available,56,3,5,,,
 6e141a59-0996-4993-8e52-293273b8f66e,xxviii.cc,available,56,1,6,,,
 d469c3cb-6ccc-4494-b604-e53df47a18f8,xxxii.cc,available,56,1,5,,,

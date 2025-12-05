@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .CC one-word domains still available to buy.
 
-This dataset contains 2,796 .CC one word domains with availability, attractiveness and demand scores.
+This dataset contains 2,798 .CC one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.CC one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=cc-oneword-domains&utm_content=description.top) (2,794) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -23,7 +23,7 @@ If you want to search & filters the complete database of [.CC one word domains](
 | ------------- | --------- | -------- | ------ | ------ | --------------- | ---------------- | ---------------- |
 | abactinal.cc  | available | 50       | 1%     | 9      |                 |                  |                  |
 | abaft.cc      | available | 43       | 2%     | 5      |                 |                  |                  |
-| abandoned.cc  | available | 58       | 10%    | 9      |                 |                  |                  |
+| abandoned.cc  | available | 58       | 7%     | 9      |                 |                  |                  |
 | abashed.cc    | available | 60       | 2%     | 7      |                 |                  |                  |
 | abasic.cc     | available | 54       | 2%     | 6      |                 |                  |                  |
 | abatable.cc   | available | 54       | 1%     | 8      |                 |                  |                  |
@@ -31,7 +31,7 @@ If you want to search & filters the complete database of [.CC one word domains](
 | abaxial.cc    | available | 54       | 2%     | 7      |                 |                  |                  |
 | abbatial.cc   | available | 50       | 1%     | 8      |                 |                  |                  |
 | abdicable.cc  | available | 50       | 1%     | 9      |                 |                  |                  |
-| abdominal.cc  | available | 82       | 1%     | 9      |                 |                  |                  |
+| abdominal.cc  | available | 82       | 5%     | 9      |                 |                  |                  |
 | abdominous.cc | available | 56       | 1%     | 10     |                 |                  |                  |
 | abducens.cc   | available | 54       | 1%     | 8      |                 |                  |                  |
 | abducent.cc   | available | 68       | 1%     | 8      |                 |                  |                  |
@@ -40,7 +40,7 @@ If you want to search & filters the complete database of [.CC one word domains](
 | aberdonian.cc | available | 68       | 1%     | 10     |                 |                  |                  |
 | aberrant.cc   | available | 74       | 7%     | 8      |                 |                  |                  |
 | abeyant.cc    | available | 56       | 2%     | 7      |                 |                  |                  |
-| abhorrent.cc  | available | 54       | 1%     | 9      |                 |                  |                  |
+| abhorrent.cc  | available | 54       | 3%     | 9      |                 |                  |                  |
 | abient.cc     | available | 54       | 1%     | 6      |                 |                  |                  |
 | abit.cc       | resell    | 66       | 16%    | 5      | Spaceship, Inc. | 07/07/2025 08:48 | 07/07/2026 08:48 |
 | abkhas.cc     | available | 68       | 1%     | 6      |                 |                  |                  |
@@ -90,7 +90,6 @@ If you want to search & filters the complete database of [.CC one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 23,050       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 51,568       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 3,508,809    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
