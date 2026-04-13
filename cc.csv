@@ -2,6 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2cae6420-93c7-4bed-844f-688273494729,usa.cc,resell,,,78,44,3,Dynadot Inc,17/11/2019 09:01,17/11/2027 09:01
 3216a8d2-c5de-4c8d-ae06-db131c777226,border.cc,resell,,,68,17,6,"22net, Inc.",29/10/2025 08:02,29/10/2026 08:02
 77f0ec34-2ba5-4382-b60c-8ce6544d06c5,health.cc,resell,,,92,43,6,Dynadot Inc,09/11/1997 05:00,09/11/2029 05:00
+83307f4e-6d7c-4510-90fd-5bfd0214edb7,wink.cc,resell,,,86,28,4,"GoDaddy.com, LLC",02/05/2000 07:00,02/05/2027 07:00
 b41393b2-0d4e-4c60-901f-ff45613e99b0,glue.cc,resell,,,72,29,4,Dynadot Inc,10/03/2015 23:35,11/03/2027 00:35
 b7b8232d-c5e8-45a6-b43b-95022a008075,awesome.cc,resell,,,84,44,7,"GoDaddy.com, LLC",02/02/2017 06:20,02/02/2027 06:20
 c8d5537b-e169-4738-be3e-96f74325f152,consent.cc,resell,,,82,21,7,Dynadot Inc,05/07/2025 08:01,05/07/2026 08:01
@@ -9,7 +10,7 @@ ef72472d-c414-49d9-9a41-de8dc0d45693,woods.cc,resell,,,68,25,5,"Spaceship, Inc."
 9fb79b51-933b-4715-93e5-c6b2ce18fa93,estateinland.cc,premium,,,64,1,14,,,
 09b7e6a2-8b21-4e46-93b9-77dab1d235cb,NewDelhi.cc,resell,,,,8,9,"TurnCommerce, Inc. DBA NameBright.com",29/05/2021 13:55,29/05/2026 13:55
 9f219016-62a4-4865-9662-283dffa80a28,essayquestion.cc,premium,,,68,1,14,,,
-200313de-42f8-453d-a708-94e21caaba45,enlarged.cc,premium,,,66,1,8,,,
+200313de-42f8-453d-a708-94e21caaba45,enlarged.cc,premium,,,66,2,8,,,
 ec728517-45f2-4896-b1c8-fd68c8e656ab,sunbeam.cc,resell,,,78,14,7,"GoDaddy.com, LLC",13/10/2019 21:08,13/10/2026 21:08
 403010dc-345e-40ab-9f8c-84e1cd582e48,burred.cc,premium,,,46,1,6,,,
 46b760bc-0330-4ea7-80aa-5aec5bb304a3,actable.cc,premium,,,50,3,7,,,
@@ -118,7 +119,7 @@ e50374a8-7359-4ed0-8f7e-91dadb7d5472,fivesome.cc,available,12.98,,82,1,8,nameche
 dfa9dbb8-6406-4354-9054-c9b7e85dd66e,thirtytwo.cc,premium,,,56,4,10,,,
 00ce8e74-9c7f-4982-9ccc-53312aee5029,letters.cc,premium,,,74,12,7,,,
 c162475c-6918-4ef7-9079-e383a294e90a,oneyearold.cc,premium,,,88,1,12,,,
-73d876f7-72c5-4523-bc95-d79832a2715b,allied.cc,resell,,,74,22,6,"Spaceship, Inc.",23/06/2025 08:13,23/06/2026 08:13
+73d876f7-72c5-4523-bc95-d79832a2715b,allied.cc,resell,,,74,23,6,"Spaceship, Inc.",23/06/2025 08:13,23/06/2026 08:13
 1c8585dc-43c4-466f-a8ce-b06d872f6c8c,getoutofhere.cc,premium,,,94,1,15,,,
 7037a3ad-790f-437e-8221-6126324fb8ad,alsatian.cc,premium,,,58,2,8,,,
 e6f4de7a-2630-4846-9b46-c606619610c6,increase.cc,resell,,,72,11,8,"GoDaddy.com, LLC",20/08/2008 15:16,20/08/2026 15:16
@@ -188,7 +189,7 @@ f0c8e1e3-b87a-4e3a-8dcd-60103f452781,ruled.cc,premium,,,72,5,5,,,
 6054328d-a1ca-4615-93e7-111456125a86,eachandevery.cc,premium,,,52,2,14,,,
 3450c2ab-07e5-4732-997f-a40293c551d1,rubelbows.cc,premium,,,,1,10,,,
 5d9a4a5a-50b5-4e49-8459-927aec86d265,unemployed.cc,premium,,,49,13,10,,,
-85361de0-cf96-40db-a1f7-823020377fe0,totally.cc,resell,,,70,18,7,"GoDaddy.com, LLC",15/09/2018 14:48,15/09/2026 14:48
+85361de0-cf96-40db-a1f7-823020377fe0,totally.cc,resell,,,70,17,7,"GoDaddy.com, LLC",15/09/2018 14:48,15/09/2026 14:48
 914a7256-e005-436e-a2a2-34602cea6b50,likenoother.cc,premium,,,74,4,13,,,
 c2122d56-f129-4fe6-8f44-f482009d68de,fortyone.cc,premium,,,56,5,9,,,
 51a65453-0b81-4521-80ed-9ae9c366cd6a,athousand.cc,premium,,,56,1,10,,,
@@ -484,7 +485,7 @@ b97477e2-6edc-445c-b0dd-4c693b46fb95,aflare.cc,premium,,,66,3,6,,,
 1498a1bd-8a3c-4706-bc2d-c45f3b42c40d,taxation.cc,premium,,,66,7,8,,,
 4be1d42d-832a-4def-9972-87508970aa80,popquiz.cc,premium,,,,3,8,,,
 96376054-6cbb-4099-aecd-cf5157d5be12,alluring.cc,available,13.98,,88,5,8,namecheap,,
-6209ee16-4035-480c-a4be-700e018f477a,prank.cc,resell,,,106,13,5,"GoDaddy.com, LLC",15/10/2015 00:33,15/10/2026 00:33
+6209ee16-4035-480c-a4be-700e018f477a,prank.cc,resell,,,106,14,5,"GoDaddy.com, LLC",15/10/2015 00:33,15/10/2026 00:33
 58a72bb0-b3ae-4c11-8f6d-be0507f3e1d3,influential.cc,resell,,,88,11,11,Dynadot Inc,12/06/2025 08:13,12/06/2026 08:13
 91af99d1-e555-4e27-bc88-c6269d7099fc,goodandproper.cc,premium,,,66,3,15,,,
 1c8ff0f6-81d3-4ff8-835d-7309057ade8a,spermcell.cc,premium,,,62,2,10,,,
@@ -515,13 +516,14 @@ c88e2b2c-db73-4fbe-ada3-c3b21a9ecbe6,pubquiz.cc,premium,,,,6,8,,,
 8eaab1d9-2429-40ef-8bdc-a8d71fca257d,giveortake.cc,premium,,,48,1,12,,,
 9d9eff44-2f07-48cb-8b39-40f14f5f09e1,someother.cc,premium,,,48,3,10,,,
 b1d959bc-1a1c-4a76-9077-3bfcf2025a82,terrified.cc,premium,,,50,3,9,,,
+63de7224-482d-4386-9691-537aac0fb416,glad.cc,resell,,,80,17,4,"GoDaddy.com, LLC",12/04/2006 04:30,12/04/2027 04:30
 54f47211-b6b3-47a7-9dfd-59aef0a0f8a6,allocable.cc,premium,,,54,1,9,,,
 d81c1b3f-ddb2-46a2-b626-108c1097794d,dormant.cc,premium,,,78,5,7,,,
 e27bad8f-ad04-4653-8cea-c4ec4a1971c3,putup.cc,premium,,,78,3,6,,,
 a0890e02-a826-45fb-9feb-f8f0c4996675,algoid.cc,premium,,,52,1,6,,,
 5947ae4d-63c7-4678-958d-dd2fe979dbf8,peeking.cc,premium,,,70,2,7,,,
 6224a231-373f-4a4b-ba42-b03a9ac61489,invincible.cc,resell,,,93,15,10,Dynadot Inc,13/09/2022 16:01,13/09/2026 16:01
-efb31419-eb68-47a5-806a-d29581a5023a,encouraged.cc,premium,,,68,6,10,,,
+efb31419-eb68-47a5-806a-d29581a5023a,encouraged.cc,premium,,,68,5,10,,,
 f2486c59-c89f-4d73-a2af-29b705960086,makethefirstmove.cc,premium,,,74,2,19,,,
 bb47baef-572e-47b6-9522-8790a9a550f4,achromic.cc,premium,,,46,2,8,,,
 dde35789-dfec-4702-be75-20b731eb8407,proved.cc,premium,,,73,5,6,,,
@@ -768,7 +770,7 @@ d06b9fae-c080-4ff5-bd17-1d3c3fc4bf26,sagittate.cc,premium,,,43,1,9,,,
 72aeedf1-6b38-4a2e-ab41-00787ce3229a,overtheboard.cc,premium,,,,2,14,,,
 f88ebfcb-1120-4d93-b1cc-e3bf17d978a3,original.cc,resell,,,98,31,8,"NameCheap, Inc.",30/05/2015 03:52,30/05/2026 03:52
 5b05980d-3117-4d11-862c-2a1b526edf79,ascendable.cc,premium,,,50,3,10,,,
-ba6db516-470c-46eb-ae97-735e1d15b06e,set.cc,resell,,,98,31,3,"GoDaddy.com, LLC",24/08/2006 08:38,24/08/2026 08:38
+ba6db516-470c-46eb-ae97-735e1d15b06e,set.cc,resell,,,98,30,3,"GoDaddy.com, LLC",24/08/2006 08:38,24/08/2026 08:38
 a7b7f8a9-e04b-4603-b062-f90e63c5a152,infrontof.cc,premium,,,52,1,11,,,
 f1b31f5a-e5c8-49c5-b1cd-1f1d074779cf,wear.cc,resell,,,70,20,4,"GoDaddy.com, LLC",19/06/2009 13:09,19/06/2026 13:09
 c89eb62c-16eb-4c4a-95cb-7b3f9f98da06,givein.cc,premium,,,70,1,7,,,
@@ -791,7 +793,7 @@ d9c1d5c4-fbd2-4d6e-85ff-390e4b1e6740,oddsandends.cc,premium,,,,3,13,,,
 9fff6e76-9e3b-4fa1-9258-a754ed78d430,abuzz.cc,premium,,,58,5,5,,,
 e64d96f4-1d9e-49ec-8183-bd2c79e0748f,alltheway.cc,premium,,,60,7,11,,,
 04948591-c51d-4311-b6ce-f2239107e7e0,afrikander.cc,premium,,,50,1,10,,,
-ae336adb-e280-4494-9747-971c9c5a9d19,austere.cc,premium,,,60,7,7,,,
+ae336adb-e280-4494-9747-971c9c5a9d19,austere.cc,premium,,,60,6,7,,,
 5b3aa2ab-dd1b-4c12-8022-a30573cb80bd,master.cc,resell,,,94,35,6,"22net, Inc.",15/07/2016 08:11,15/07/2026 08:11
 f1b8265e-093a-4048-9d13-bd4981056bc5,attheoutside.cc,premium,,,67,1,14,,,
 9371ee82-ad7f-40e0-ac33-ef62aa402112,promotion.cc,resell,,,72,18,9,"22net, Inc.",13/10/2004 22:23,13/10/2026 22:23
@@ -986,7 +988,7 @@ acbb69f9-6acb-42d3-afeb-1ed47e4e10c0,walloping.cc,premium,,,70,1,9,,,
 18fe58e4-d8a6-4a8f-afdd-587a3d327f29,understandable.cc,premium,,,74,4,14,,,
 bd7fe2b8-6c6e-479a-8b00-469cc67254ae,xcviii.cc,premium,,,52,2,6,,,
 46709ec6-a966-4db6-ba9e-45581393c6f5,buyfood.cc,premium,,,72,3,8,,,
-cf393db1-7b3f-438e-b9e3-f6dcf9761c3c,aussie.cc,resell,,,96,24,6,Dynadot Inc,24/03/2026 05:43,24/03/2027 05:43
+cf393db1-7b3f-438e-b9e3-f6dcf9761c3c,aussie.cc,resell,,,96,25,6,Dynadot Inc,24/03/2026 05:43,24/03/2027 05:43
 e3c82e1d-8e85-4602-8d99-3258aa64147a,propagated.cc,premium,,,,2,10,,,
 82567604-169d-4ad8-8cc2-cf260adf74a7,chiliad.cc,premium,,,62,2,7,,,
 90fb0c59-9f5d-4d76-999d-4ebc4341d489,BlackTuesday.cc,premium,,,48,2,13,,,
@@ -1138,7 +1140,7 @@ ff9161fe-e71a-4f4c-9b8b-cb73cf926dda,goodGod.cc,premium,,,78,6,8,,,
 d558a1e4-65cb-4f53-9f1b-6faf001d2f6c,yeasty.cc,premium,,,46,2,6,,,
 7c2224bb-841f-42b6-bde4-ddac4830f135,naturally.cc,resell,,,64,13,9,Dynadot Inc,01/10/2025 10:28,01/10/2030 10:28
 89585b61-def1-4f7c-93b1-34ee6d6da6a4,showofhands.cc,premium,,,,3,13,,,
-35e6688c-91cc-4c89-a64f-da4a053dc63c,acute.cc,resell,,,112,12,5,Unstoppable Domains Inc.,20/02/2020 01:24,20/02/2027 01:24
+35e6688c-91cc-4c89-a64f-da4a053dc63c,acute.cc,resell,,,112,11,5,Unstoppable Domains Inc.,20/02/2020 01:24,20/02/2027 01:24
 03ea0644-7ba6-43ce-ba39-2b54c6d52192,bowout.cc,premium,,,72,0,7,,,
 13224b24-2553-4566-80db-4b0e144bc944,breastbone.cc,premium,,,64,1,11,,,
 81afaea1-1d21-498d-90ad-d470bdf0f8a5,areolate.cc,premium,,,46,1,8,,,
@@ -1212,16 +1214,16 @@ fde11803-63b6-4972-8fe8-883a397ba428,thenandnow.cc,premium,,,,5,12,,,
 a34115e8-d741-4e41-bec1-42711b59ea62,howthehell.cc,premium,,,44,2,12,,,
 50c9d1c1-0c0f-4f98-bc7a-71aecc42115e,operose.cc,premium,,,54,3,7,,,
 c1a60cef-059e-49df-9109-7de152c54a2b,destroyed.cc,available,13.98,,52,4,9,namecheap,,
-5eddeef9-bc3c-4f7c-8f83-0d6cc558dd11,staring.cc,premium,,,64,8,7,,,
+5eddeef9-bc3c-4f7c-8f83-0d6cc558dd11,staring.cc,premium,,,64,7,7,,,
 a34c94a4-1183-493e-82be-29406bcbd9f6,ache.cc,resell,,,58,8,4,GoDaddy Online Services Cayman Islands Ltd.,11/02/2016 09:00,11/02/2026 09:00
 0db6c119-fe56-479b-8f00-34bf9a6d206b,articular.cc,premium,,,50,4,9,,,
-15681578-b411-4713-bff1-a05849403300,damn.cc,resell,,,140,24,4,"GoDaddy.com, LLC",19/10/2011 08:28,19/10/2026 08:28
+15681578-b411-4713-bff1-a05849403300,damn.cc,resell,,,140,23,4,"GoDaddy.com, LLC",19/10/2011 08:28,19/10/2026 08:28
 0d4cc7dc-67d6-419b-94bd-af33169cae84,cleaver.cc,premium,,,56,8,7,,,
 4fb0d87d-6861-483b-b0ec-3e309e7dd7af,ilxx.cc,premium,,,48,1,4,,,
 6066a1b4-26f1-4e3c-a77c-8bd39856cdce,StStephen.cc,premium,,,66,2,10,,,
 45075db2-a68f-41b6-9015-2e327c9b7e0a,dragout.cc,premium,,,60,1,8,,,
 1b31006a-d8fa-4214-952d-3f6084ebdc17,mature.cc,resell,,,92,14,6,Dynadot11 LLC,17/09/2019 08:01,17/09/2026 08:01
-2ee9e8e3-5354-415a-8244-b807a0926987,blanket.cc,resell,,,100,13,7,"NameSilo, LLC",21/07/2007 02:35,21/07/2026 02:35
+2ee9e8e3-5354-415a-8244-b807a0926987,blanket.cc,resell,,,100,12,7,"NameSilo, LLC",21/07/2007 02:35,21/07/2026 02:35
 a8ce2bbf-aee9-4884-82c4-68bec9756d33,corrected.cc,available,13.98,,70,4,9,namecheap,,
 fb653a13-3802-4c57-83bb-506a79f7dff8,ampullar.cc,premium,,,46,1,8,,,
 eb786a04-a1a3-4701-af86-c36e4e4151bd,grimy.cc,premium,,,44,3,5,,,
@@ -1247,14 +1249,14 @@ ba7e9236-5e9b-4ffc-993a-015ef7d63446,tetrad.cc,premium,,,58,5,6,,,
 ce2911f9-776b-4dba-8ac8-6f5a6587d1e4,accessible.cc,resell,,,78,22,10,"Spaceship, Inc.",21/02/2026 16:15,21/02/2027 16:15
 b19d6127-c103-487f-84fc-ba9cfff43df5,blanched.cc,premium,,,44,2,8,,,
 f0df572f-eb26-4061-adb8-33713f8fba6a,shoutout.cc,premium,,,68,13,9,,,
-1aaf5122-0b7f-4ce2-92e3-436603e64433,endorse.cc,resell,,,100,12,7,Dynadot Inc,23/10/2023 13:39,23/10/2026 13:39
+1aaf5122-0b7f-4ce2-92e3-436603e64433,endorse.cc,resell,,,100,11,7,Dynadot Inc,23/10/2023 13:39,23/10/2026 13:39
 7d2c2764-7d42-48cb-8b37-bb822d79570b,nought.cc,resell,,,92,5,6,Dynadot Inc,07/06/2025 01:42,07/06/2026 01:42
 7a66fe3a-99db-48b5-a856-1c47d8740cd3,IndianaJones.cc,premium,,,80,4,13,,,
 ad4e5d36-a1e1-494f-8f4a-dd30f8826949,sift.cc,resell,,,62,21,4,Dynadot Inc,07/01/2026 09:08,07/01/2027 09:08
 c7ebae73-fc5b-4a15-b270-0e6d45bc127a,barbadian.cc,premium,,,68,0,9,,,
 db8078e7-6210-4c5a-9d0c-a02cfbe0b58e,coffeetablebook.cc,premium,,,76,1,17,,,
 64bc33b7-8254-486b-814c-b441a6e34dda,attachment.cc,resell,,,72,12,10,"Spaceship, Inc.",28/05/2014 20:10,28/05/2026 20:10
-704eca05-e3c3-4991-8360-654af71e4a9f,acceptable.cc,available,13.98,,78,8,10,namecheap,,
+704eca05-e3c3-4991-8360-654af71e4a9f,acceptable.cc,available,13.98,,78,7,10,namecheap,,
 0f5f6ee0-ccde-405e-984d-1ea67d25f734,upstart.cc,resell,,,106,20,7,Dynadot Inc,15/05/2025 08:14,15/05/2026 08:14
 77be3410-fdb2-4ff7-93dc-41526e5ef2a2,attended.cc,premium,,,58,4,8,,,
 1d5ca98d-89d6-47fc-93fe-c302e37619e9,manymoonsago.cc,premium,,,50,1,14,,,
@@ -1335,12 +1337,12 @@ c73fdd73-cd70-4eb2-a7f2-40ff979be88e,yesterday.cc,resell,,,84,14,9,Dynadot Inc,2
 4a9a9502-1307-493f-b057-1b46fd0215f7,processed.cc,premium,,,62,7,9,,,
 2b1cc54a-7e38-4fc1-b7d0-f07a126005d8,eclipse.cc,resell,,,90,37,7,"GoDaddy.com, LLC",30/03/1999 05:00,30/03/2027 04:00
 177df6f3-0a24-41bb-9b36-dc4f1ed624ce,confusing.cc,available,13.98,,61,6,9,namecheap,,
-ff6d0300-1810-451d-bd09-61c91556fe22,after.cc,resell,,,100,28,5,"Alibaba Cloud Computing (Beijing) Co., Ltd.",07/04/2013 11:27,07/04/2027 11:27
+ff6d0300-1810-451d-bd09-61c91556fe22,after.cc,resell,,,100,27,5,"Alibaba Cloud Computing (Beijing) Co., Ltd.",07/04/2013 11:27,07/04/2027 11:27
 c65f37d0-c749-41ed-83e0-cf32e7dc6c26,goodasnew.cc,premium,,,76,3,11,,,
 fbd5df64-b68e-425e-8d90-82812ce0dc08,establishment.cc,premium,,,64,5,13,,,
 84df8f45-851b-485f-81ac-4d397c78f1f3,ridden.cc,premium,,,74,2,6,,,
 9e1da73a-8151-41e5-a8ca-29bf4f5f9b36,flame.cc,resell,,,102,27,5,"GoDaddy.com, LLC",03/11/2004 12:23,03/11/2026 12:23
-dd0a04cc-3945-48b2-ad33-365b321b0cda,before.cc,resell,,,84,19,6,"22net, Inc.",24/11/2012 13:20,24/11/2026 13:20
+dd0a04cc-3945-48b2-ad33-365b321b0cda,before.cc,resell,,,84,18,6,"22net, Inc.",24/11/2012 13:20,24/11/2026 13:20
 33581f5f-8bb5-45a3-9686-f7d69b3688fe,allsmiles.cc,premium,,,68,5,10,,,
 9ed75304-98d7-49c0-be54-da98f032eddc,generalformula.cc,premium,,,72,1,15,,,
 8a1c6405-8e0a-4c31-bb0c-d18de83e02fe,disapproval.cc,premium,,,50,2,11,,,
@@ -1432,7 +1434,7 @@ abba0d2f-aa10-442e-ad16-526226c33a83,awny.cc,premium,,,56,2,4,,,
 308baf50-796f-4dc6-a229-cd111c6b1313,gotobedwith.cc,premium,,,66,1,14,,,
 496d29af-14d0-4f94-b43f-e228a6e16dcc,inorderto.cc,premium,,,,1,11,,,
 761035af-fdbb-45ed-ac9d-e52ebc8bebcc,borderon.cc,premium,,,66,1,9,,,
-e25bc7cb-80ca-4062-b5ee-daf6d8f394d6,auriferous.cc,premium,,,66,3,10,,,
+e25bc7cb-80ca-4062-b5ee-daf6d8f394d6,auriferous.cc,premium,,,66,2,10,,,
 d04c63e6-988c-430f-9a36-3bc9105b238f,dorightby.cc,premium,,,74,1,11,,,
 14b12bdb-50b2-4956-bc6a-13361278eb36,eighteen.cc,resell,,,76,9,8,Dynadot Inc,17/09/2025 06:04,17/09/2026 06:04
 ef57c299-2559-4a0c-b032-e3182a180b61,deserter.cc,premium,,,49,1,8,,,
@@ -1442,7 +1444,7 @@ cdd6f9a6-d90d-4758-9a27-5b80b8a5f5bd,guilt.cc,premium,,,86,6,5,,,
 d18ee434-1c56-49b4-bfa0-e0b6962f34dc,naturalperson.cc,premium,,,,1,14,,,
 53dafd61-407a-450e-92ec-8da45eb813d6,basined.cc,premium,,,46,1,7,,,
 94d75936-33e6-42fe-b055-80c8b8f58a80,toilet.cc,resell,,,86,15,6,"Alibaba Cloud Computing (Beijing) Co., Ltd.",26/11/2005 19:43,26/11/2026 19:43
-0f56dfb1-f0c2-4783-8397-d7e45eb2d22c,roughly.cc,available,13.98,,62,6,7,namecheap,,
+0f56dfb1-f0c2-4783-8397-d7e45eb2d22c,roughly.cc,available,13.98,,62,5,7,namecheap,,
 d634edad-e402-4495-8369-1a8cf788fffc,financial.cc,resell,,,62,28,9,Dynadot Inc,03/10/2007 08:00,03/10/2026 08:00
 eb4f27cf-998a-4556-aa69-d95c42c98839,gleaming.cc,premium,,,82,4,8,,,
 f4459171-898d-47c2-9f0d-53c546b112bb,foolish.cc,available,13.98,,60,15,7,namecheap,,
@@ -1452,7 +1454,7 @@ c0a8e9f1-6a42-4733-98cd-f5034a60481a,ascending.cc,premium,,,74,8,9,,,
 88d92ec0-9bb2-469a-a836-0dbe3e6a8864,howgoesit.cc,premium,,,54,1,11,,,
 715bae10-a9a1-4a8a-9ae6-010a700ddbd6,accustomed.cc,available,13.98,,72,2,10,namecheap,,
 1496d501-993e-4bc1-80bc-30de2f421b76,broke.cc,resell,,,102,17,5,Dynadot Inc,01/03/2026 09:04,01/03/2027 09:04
-9fab252d-247f-42fa-8209-1a80de5aaf9e,complete.cc,resell,,,120,26,8,Unstoppable Domains Inc.,26/12/2023 09:05,26/12/2026 09:05
+9fab252d-247f-42fa-8209-1a80de5aaf9e,complete.cc,resell,,,120,25,8,Unstoppable Domains Inc.,26/12/2023 09:05,26/12/2026 09:05
 2916154e-983a-48dc-9138-b95c2e917008,afoot.cc,premium,,,58,3,5,,,
 f7b6c057-e7da-4309-8c62-ff5678ec7a14,sympathize.cc,premium,,,79,2,10,,,
 4f864db9-7228-492e-9ac1-5c1632d88a5a,intheabstract.cc,premium,,,46,1,15,,,
@@ -1468,7 +1470,7 @@ a1e96994-7e85-4dc7-8141-0f08f5e96d34,beggarly.cc,premium,,,46,1,8,,,
 3346afb2-674a-4190-a329-fa0bbd5ca242,starred.cc,premium,,,48,5,7,,,
 cc314649-8636-4c0b-8572-953edf7ab1fa,discomfort.cc,premium,,,82,4,10,,,
 2e5f4951-79ae-44d3-a29c-e4ef94741caf,magnifyingglass.cc,premium,,,73,1,16,,,
-a38ab057-cd13-44cd-aa82-2305aff5cfb8,bothered.cc,premium,,,64,4,8,,,
+a38ab057-cd13-44cd-aa82-2305aff5cfb8,bothered.cc,premium,,,64,3,8,,,
 e72b46a5-83b4-488d-90db-4498d42b628e,getrightwith.cc,premium,,,51,1,14,,,
 e27e7729-a547-4037-8fd4-4132122cae69,coldrubber.cc,premium,,,58,1,11,,,
 35a3fc88-f802-4fb4-92ee-3d42306ddc77,fidgety.cc,premium,,,64,2,7,,,
@@ -1663,7 +1665,7 @@ befb1007-979d-474b-9ba2-fcae43355474,plaguey.cc,premium,,,39,1,7,,,
 e9816000-cd8f-4541-be35-1edf7b7bedbd,from.cc,resell,,,72,28,4,"Spaceship, Inc.",27/06/2004 05:10,27/06/2026 05:10
 4f13aec6-0c2f-4b3b-9aae-de2bdb55503f,Netherlands.cc,resell,,,,4,11,"22net, Inc.",16/06/2002 04:00,16/06/2026 04:00
 7b8d7503-cbdf-4312-8be6-a29202e08820,adnate.cc,premium,,,60,2,6,,,
-c9a0d77b-5582-42f3-a7d0-f2dac45860ef,animating.cc,premium,,,72,3,9,,,
+c9a0d77b-5582-42f3-a7d0-f2dac45860ef,animating.cc,premium,,,72,4,9,,,
 1e368da5-93fa-4bea-b1a4-c9e3add6034d,arminian.cc,premium,,,64,1,8,,,
 24c5992d-1b5d-48e3-9635-7d7c9dcc8633,helminthic.cc,premium,,,68,1,10,,,
 59cc4041-468e-4b64-be04-85d6f2915da0,peremptory.cc,premium,,,61,1,10,,,
@@ -1725,7 +1727,7 @@ d073eca3-bd60-4d80-be6f-6dc864f8addf,boards.cc,resell,,,64,14,6,Dynadot Inc,08/1
 0036fa80-958e-4688-b190-22868b38490b,aboveabit.cc,premium,,,56,1,11,,,
 b1f9f229-359c-47b8-8f23-d3f275b69721,eleventh.cc,premium,,,62,5,8,,,
 5c227db0-3a54-485a-b3ed-12ae8d5b3720,male.cc,resell,,,68,15,4,Dynadot Inc,17/10/2008 08:04,17/10/2026 08:04
-23e46cf4-f538-46c4-a662-c0f82b0c573a,sensation.cc,resell,,,74,8,9,"NameSilo, LLC",29/06/2025 00:04,29/06/2026 00:04
+23e46cf4-f538-46c4-a662-c0f82b0c573a,sensation.cc,resell,,,74,7,9,"NameSilo, LLC",29/06/2025 00:04,29/06/2026 00:04
 45df52b0-3431-4c09-ab2d-bc74229fdaa6,pressofficer.cc,premium,,,70,1,13,,,
 616eb04e-8e64-4e69-9ce6-d560010cabec,commonera.cc,premium,,,66,4,10,,,
 f9be1efd-2747-4308-aa15-7a1543d00e79,canon.cc,resell,,,70,67,5,Gname 453 Inc,01/07/2025 08:01,01/07/2026 08:01
@@ -2177,7 +2179,7 @@ dd6946bb-43a4-4e34-b9f6-a76c14eaa958,announce.cc,resell,,,76,11,8,Dynadot Inc,20
 5bb9ce80-9c21-4fed-b83d-bfab04e087ef,godhead.cc,premium,,,62,4,7,,,
 73afb3dd-e76b-4f71-b930-7790df115f36,distribution.cc,resell,,,64,16,12,"Alibaba Cloud Computing (Beijing) Co., Ltd.",07/06/2021 08:01,07/06/2026 08:01
 a643b668-8a63-4645-84b7-6d39ca3f5d56,bull.cc,resell,,,62,28,4,Dynadot Inc,20/07/2005 03:18,20/07/2026 03:18
-e7c4cd7b-47fc-4cf8-a12a-d7821e233108,authorised.cc,premium,,,70,3,10,,,
+e7c4cd7b-47fc-4cf8-a12a-d7821e233108,authorised.cc,premium,,,70,4,10,,,
 7812698f-6a18-475f-a321-bd9500a59a64,stratified.cc,premium,,,45,4,10,,,
 c2cd2f0f-1aa7-4f7a-80c3-adc1634b48b8,panoptic.cc,premium,,,46,13,8,,,
 b16a61d8-1d86-429c-a067-d694efebe905,erase.cc,resell,,,86,10,5,Unstoppable Domains Inc.,16/01/2014 03:41,16/01/2027 03:41
@@ -2185,6 +2187,7 @@ b16a61d8-1d86-429c-a067-d694efebe905,erase.cc,resell,,,86,10,5,Unstoppable Domai
 70f88796-d4c0-48d4-99f8-34da0da22753,lordly.cc,premium,,,64,3,6,,,
 2ef92700-8044-42d4-8ef6-14a609a6b420,quantities.cc,premium,,,,2,10,,,
 a68e9e5d-9c32-4793-8a9f-3ee2f182e29c,getoutofmyface.cc,premium,,,43,1,18,,,
+ff879f60-17dd-49ab-a7a1-cdae7d334eca,around.cc,resell,,,94,23,6,"Spaceship, Inc.",11/04/2024 08:02,11/04/2027 08:02
 bf2e2438-1c50-40cb-a2b9-957b2d6c3579,sanative.cc,premium,,,80,2,8,,,
 f74f8aeb-4515-4326-b47e-f2c317e60446,investment.cc,resell,,,78,30,10,Dynadot Inc,23/12/2007 20:43,23/12/2026 20:43
 d58588de-e3fc-4098-9eb0-c4a87a3d2fbf,hardfacts.cc,premium,,,54,3,10,,,
@@ -2359,7 +2362,7 @@ ee73da29-1b2e-4b47-b47f-566c01f000fd,mothafugga.cc,premium,,,62,1,10,,,
 67fb30c9-7f7f-4f7f-848b-ac234ed60ccb,bellyshirt.cc,premium,,,70,1,11,,,
 548cab6a-78d9-4a33-8303-d167f4b46861,nowhile.cc,premium,,,,1,8,,,
 58f66fc8-1333-433e-810b-d7f91854afa9,cane.cc,resell,,,63,12,4,Dynadot Inc,11/10/2023 14:13,11/10/2026 14:13
-1d0f5180-53f5-44a1-b4fc-ee0213c934de,augratin.cc,premium,,,70,2,9,,,
+1d0f5180-53f5-44a1-b4fc-ee0213c934de,augratin.cc,premium,,,70,1,9,,,
 1493318d-2b84-4455-a66e-8023f52be807,bugged.cc,premium,,,56,4,6,,,
 308f0b35-df90-4049-8e58-c37698d0f5e4,givethanks.cc,premium,,,54,5,11,,,
 9dcbf294-f4e9-47bd-b17d-cdc201938835,penis.cc,resell,,,60,35,5,Dynadot Inc,31/10/2024 08:02,31/10/2026 08:02
@@ -2400,7 +2403,7 @@ afb85082-c129-4892-af6d-da4b7e7fad77,ribald.cc,premium,,,64,1,6,,,
 3b6511ea-436f-42a2-b26d-a7a3864e9bde,distinction.cc,premium,,,76,10,11,,,
 37645cb5-bb77-4433-baa3-fed2b0112a6b,allergic.cc,available,13.98,,84,6,8,namecheap,,
 89cc7798-391b-45d8-9db7-c294c8f0b9ef,exercisebike.cc,premium,,,70,2,13,,,
-7c9af14a-3973-4529-8547-6b3571633346,favored.cc,premium,,,76,6,7,,,
+7c9af14a-3973-4529-8547-6b3571633346,favored.cc,premium,,,76,7,7,,,
 c55cd2f5-446b-4404-84ae-63c83bd97875,biological.cc,resell,,,92,9,10,"eName Technology Co., Ltd.",10/11/2013 22:52,10/11/2026 22:52
 c2bbf2c2-eff3-405b-aa9e-0b2c55cf28e7,dismayed.cc,premium,,,54,1,8,,,
 d6da267c-80c2-4f21-be44-c7416ca0894c,GodSavetheKing.cc,premium,,,90,2,17,,,
@@ -2424,7 +2427,7 @@ c317e559-3c40-4dbc-b5bd-23cc1ddac6e9,amphibian.cc,premium,,,68,8,9,,,
 3d98da67-7c1f-4d07-9aaa-89801672afe6,economical.cc,available,13.98,,68,5,10,namecheap,,
 3a4cebbb-699d-40b5-94d3-bde8b6ad7e66,infact.cc,available,13.98,,70,9,7,namecheap,,
 6ee22187-acdf-49e0-9770-716eb2e5ec84,comeupon.cc,premium,,,68,1,9,,,
-186c5b61-b9f8-4a06-a169-d3daa659f4e1,bluish.cc,premium,,,72,6,6,,,
+186c5b61-b9f8-4a06-a169-d3daa659f4e1,bluish.cc,premium,,,72,5,6,,,
 3bee3183-3ab7-4759-b7b9-2d1253e09a40,diskdrive.cc,premium,,,72,3,10,,,
 3ecf217b-9354-4fcc-8a6a-b22512581b9e,welfare.cc,resell,,,96,16,7,Dynadot Inc,08/02/2024 04:42,08/02/2027 04:42
 04a4f55f-9ed0-49ca-b2cf-402f7c89d7a5,bahreini.cc,premium,,,46,2,8,,,
@@ -2519,7 +2522,7 @@ e13e4c7e-a97d-4d04-92ce-847803c29dd9,floormanager.cc,premium,,,70,2,13,,,
 00f94cf0-d90c-49bf-b735-b031015fb7a2,rapmusic.cc,premium,,,,4,9,,,
 98c32447-c038-4fe4-b8ed-6779c4686ff9,achaian.cc,premium,,,68,2,7,,,
 d0119369-eec3-4067-ac49-50d280707af2,damned.cc,resell,,,68,7,6,Dynadot Inc,01/03/2025 12:44,01/03/2035 12:44
-dc02804c-9002-4341-85a7-e62162070576,keen.cc,resell,,,64,27,4,Unstoppable Domains Inc.,27/11/2023 09:04,27/11/2026 09:04
+dc02804c-9002-4341-85a7-e62162070576,keen.cc,resell,,,64,26,4,Unstoppable Domains Inc.,27/11/2023 09:04,27/11/2026 09:04
 033085aa-9c95-479d-a6db-b4f82b3e09b3,finishup.cc,premium,,,74,2,9,,,
 f223aaac-5ea7-49d6-8568-7a056557531a,big.cc,resell,,,88,47,3,"GoDaddy.com, LLC",10/01/2006 09:01,10/01/2027 09:01
 39a2090f-fc11-44e1-b10e-16359bd13d54,albitic.cc,premium,,,56,1,7,,,
@@ -2538,7 +2541,7 @@ ff797f36-be1a-464c-affe-93f33c766af1,standon.cc,premium,,,,3,8,,,
 4e8af0a1-5cc8-475f-bb0c-8666c8c1f897,amebic.cc,premium,,,56,1,6,,,
 8c0c5db6-aac6-40a9-af4a-7223e2400b81,investmentbanking.cc,premium,,,70,6,18,,,
 745be77e-033a-4709-8688-4c1c575dc183,plasticsurgeon.cc,premium,,,76,7,15,,,
-267c4dc1-b3b0-456d-b8d2-bafdc6b9a7c3,found.cc,resell,,,92,46,5,Tencent Cloud Computing (Beijing) Limited Liability Company,28/03/2012 08:14,28/03/2027 08:14
+267c4dc1-b3b0-456d-b8d2-bafdc6b9a7c3,found.cc,resell,,,92,45,5,Tencent Cloud Computing (Beijing) Limited Liability Company,28/03/2012 08:14,28/03/2027 08:14
 ba07de58-6914-4ac7-a393-96dbe5b2c2c7,havenotimefor.cc,premium,,,64,1,16,,,
 17a6b480-77be-4220-b3bd-dee5e2605423,ariled.cc,premium,,,50,1,6,,,
 e458fae2-f447-461c-bf77-57a4a4d2f69a,created.cc,resell,,,60,15,7,Dynadot Inc,05/09/2024 04:53,05/09/2026 04:53
@@ -2693,7 +2696,7 @@ e8c2ee74-6dd1-482d-8b3d-10736f499d4d,journal.cc,resell,,,110,28,7,Dynadot Inc,24
 09cd6984-cf59-4af2-b743-bba5902b6f9d,blueish.cc,premium,,,72,4,7,,,
 8746dbdf-da60-42ad-ab05-df897df95fe2,appellate.cc,premium,,,50,5,9,,,
 91c4aad3-4b0a-4573-ba0b-540af003cc14,negotiate.cc,resell,,,76,12,9,"Spaceship, Inc.",20/07/2025 08:03,20/07/2026 08:03
-e0ec63f7-bcd5-462c-bfca-34f376a684da,built.cc,resell,,,103,23,5,Gname.com Pte. Ltd.,20/01/2025 09:01,20/01/2027 09:01
+e0ec63f7-bcd5-462c-bfca-34f376a684da,built.cc,resell,,,103,22,5,Gname.com Pte. Ltd.,20/01/2025 09:01,20/01/2027 09:01
 bbce93f8-f29f-4c5c-b1a1-99a4df414e53,GermanReich.cc,premium,,,52,1,12,,,
 be5e36ed-de7a-454d-bbd2-d3be540b4b95,aetiologic.cc,premium,,,46,1,10,,,
 5ed8b6c6-e670-439b-af32-cfd7e13e9950,soppy.cc,premium,,,48,3,5,,,
@@ -2795,10 +2798,9 @@ b7e49151-b5dc-4109-8659-5898a75c9ff0,acold.cc,premium,,,51,2,5,,,
 c6e38c9d-0c0c-41cf-95c0-f975bc60277a,aphyllous.cc,premium,,,41,1,9,,,
 a3e2fcdc-ed42-4cd0-a382-c54c1d329b09,proportion.cc,premium,,,94,6,10,,,
 98d6cb58-ba4f-43db-b706-4a46a976d64c,proven.cc,resell,,,73,22,6,Dynadot Inc,12/10/2024 08:29,12/10/2026 08:29
-1f4fbb47-d006-45e4-94f2-6da7e2fc4ddf,whole.cc,resell,,,104,21,5,"Spaceship, Inc.",29/05/2021 08:01,29/05/2026 08:01
+1f4fbb47-d006-45e4-94f2-6da7e2fc4ddf,whole.cc,resell,,,104,20,5,"Spaceship, Inc.",29/05/2021 08:01,29/05/2026 08:01
 d0757c7d-c304-4412-8acf-655399401502,ametabolic.cc,premium,,,50,1,10,,,
 71470459-4d38-47eb-b60e-44d7abafa523,maketime.cc,premium,,,74,7,9,,,
-70464f74-3dae-49e2-94cd-97f4c4ed945c,slow.cc,resell,,,114,35,4,"Spaceship, Inc.",07/05/2012 12:21,07/05/2026 12:21
 561d7823-6592-42bf-868b-1b601bc515c5,astringent.cc,premium,,,64,1,10,,,
 46b17009-f971-491e-b3e3-290aef580893,aramean.cc,premium,,,78,2,7,,,
 fe6ebf1b-07f3-4987-aea7-1910cad0606f,nontoxic.cc,premium,,,70,8,8,,,
@@ -2825,7 +2827,7 @@ f03f6755-b42e-4751-a649-af2b8f8c7506,rubbingoil.cc,premium,,,,1,11,,,
 7dd5539c-fc1c-45a8-9597-f1fbd5f6abff,slapup.cc,premium,,,58,1,7,,,
 24602710-1d98-48a4-89ec-f54af2fbb437,recovery.cc,resell,,,70,32,8,"Network Solutions, LLC",13/09/2014 08:49,13/09/2026 08:49
 d24899e8-c539-44e6-a9b9-8be70e1130bf,stretch.cc,resell,,,100,26,7,Gname 135 Inc,01/06/2025 08:01,01/06/2026 08:01
-2322e02d-1f1d-4f66-a50c-90f94f4330e8,attendant.cc,available,13.98,,86,8,9,namecheap,,
+2322e02d-1f1d-4f66-a50c-90f94f4330e8,attendant.cc,available,13.98,,86,7,9,namecheap,,
 4799260c-0096-47b0-bcdd-8bc0827c5341,sainted.cc,premium,,,70,5,7,,,
 99a79635-31af-4eee-b52a-3d302dc0b43e,lowlying.cc,premium,,,56,1,9,,,
 85782e78-b10f-40e5-9089-73c7dfeb4284,apply.cc,resell,,,80,34,5,Gname 307 Inc,11/02/2026 09:05,11/02/2027 09:05
@@ -2841,7 +2843,7 @@ f91bff0c-e2e5-420e-a92f-e2064fd7d153,albanian.cc,premium,,,82,14,8,,,
 027e5559-f827-4a7d-8c7d-8abc6a4c6bdb,modernday.cc,available,13.98,,70,6,10,namecheap,,
 069ebf02-1fd2-473f-afd9-75f81d286c42,whatkindof.cc,premium,,,,1,12,,,
 7c228933-97a6-4469-9fb6-3df0f0e91695,convinced.cc,premium,,,66,3,9,,,
-c39b50a1-2347-46ee-8ac9-0d3d46898448,awfully.cc,premium,,,62,2,7,,,
+c39b50a1-2347-46ee-8ac9-0d3d46898448,awfully.cc,premium,,,62,3,7,,,
 d7a1c11b-0ea6-499d-ac30-166e90fcd8a8,laughable.cc,premium,,,68,4,9,,,
 23bbd594-9742-4b41-b128-f3b39c5b314a,Frenchpie.cc,premium,,,58,2,10,,,
 e002eab8-b415-4cbb-80bc-76bf82bc08d8,glittery.cc,premium,,,64,3,8,,,
@@ -2937,7 +2939,7 @@ fdc5aacf-b25f-4bb0-856d-15adf8522003,voluntarily.cc,premium,,,62,3,11,,,
 2b2d9882-a5a9-4906-b614-17d9aa574a1d,accordant.cc,premium,,,64,3,9,,,
 54ce18fb-7a30-499e-9478-5f9100af070d,goodfriend.cc,premium,,,58,5,11,,,
 b54d3d39-35d7-4e34-912c-334c3f16db5a,streetcrime.cc,premium,,,,2,12,,,
-2a25c68b-4327-4e63-945a-d3edf9d3c283,terrible.cc,available,13.98,,68,22,8,namecheap,,
+2a25c68b-4327-4e63-945a-d3edf9d3c283,terrible.cc,available,13.98,,68,23,8,namecheap,,
 6549fd92-6e3c-4206-b947-13d8d8db5715,halfdozen.cc,premium,,,56,1,10,,,
 54a85586-7172-44a5-9512-e913140c95cc,ogdoad.cc,premium,,,50,2,6,,,
 fc2e155f-cd31-4bc2-89fe-93692f70ac5c,suck.cc,resell,,,84,16,4,"GoDaddy.com, LLC",02/06/2004 08:13,02/06/2026 08:13
@@ -2950,7 +2952,7 @@ c57d5729-aef2-4ce9-b8eb-47590abfdb7c,island.cc,resell,,,72,35,6,"Alibaba Cloud C
 e0f895da-cece-41bf-9dc7-7dfdfaf2f7f1,appealing.cc,premium,,,78,3,9,,,
 ae2ad384-7246-4c71-938a-5013c5ed0764,atrophied.cc,premium,,,38,1,9,,,
 e6bc4c3e-9e78-4b8c-92fe-83490fe0b305,abdominal.cc,available,13.98,,82,3,9,namecheap,,
-6bb96176-7548-4861-939f-b8a3e76d1d53,bouncing.cc,premium,,,90,7,8,,,
+6bb96176-7548-4861-939f-b8a3e76d1d53,bouncing.cc,premium,,,90,6,8,,,
 56045c1a-9345-4f3a-a7ed-6ee358825176,wise.cc,resell,,,98,34,4,"GoDaddy.com, LLC",09/05/2007 11:23,09/05/2026 11:23
 3f4c4553-857f-477e-972e-95087fd028ac,pointy.cc,premium,,,84,7,6,,,
 cc6b8746-f9e3-4052-ac04-4d97051911d2,cook.cc,resell,,,72,30,4,"22net, Inc.",25/05/2004 13:56,25/05/2027 13:56
@@ -2998,7 +3000,7 @@ bfd34c3f-823e-493e-b12b-455470ba9909,stripling.cc,premium,,,46,3,9,,,
 c6f7f284-586d-439b-b6e7-26277abc49a7,led.cc,resell,,,78,31,3,InterNetX GmbH,12/11/2005 13:44,12/11/2026 13:44
 4dbff655-e96e-4a09-99c3-4351a1e38f48,xmas.cc,resell,,,84,18,4,Unstoppable Domains Inc.,25/01/2009 17:52,25/01/2027 17:52
 081d033b-9bf9-49bc-8f75-f0bbe536dce2,amerciable.cc,premium,,,54,1,10,,,
-3e7aca10-3054-4985-aeaa-2e180bc002d4,bootleg.cc,available,13.98,,68,12,7,namecheap,,
+3e7aca10-3054-4985-aeaa-2e180bc002d4,bootleg.cc,available,13.98,,68,11,7,namecheap,,
 ee6d6a25-9bc4-4b04-b6aa-b02db1f81e40,bacchantic.cc,premium,,,46,1,10,,,
 3f75c2d0-f638-471a-b930-9b1e1c40eb66,chips.cc,resell,,,84,24,5,"22net, Inc.",19/12/2021 09:01,19/12/2026 09:01
 c1628566-d4df-4eb0-a91a-32b892ffc9a3,muchas.cc,premium,,,58,2,7,,,
@@ -3209,7 +3211,7 @@ a21f95b1-c05f-4fca-8a1c-42dc0c511c84,moveback.cc,premium,,,70,2,9,,,
 ffae4762-1f84-46df-92c0-a94a71e01dfd,silverprint.cc,premium,,,,2,12,,,
 e96f4b02-d0bc-439d-ab25-6352eb17f0eb,knockitoff.cc,premium,,,86,4,12,,,
 73c14bce-516a-4f55-b8fd-1b4015563f80,thisinstant.cc,premium,,,,1,12,,,
-d4c52488-2756-473d-8371-37e56f0200c4,aujus.cc,premium,,,68,3,6,,,
+d4c52488-2756-473d-8371-37e56f0200c4,aujus.cc,premium,,,68,2,6,,,
 57793ba1-63c0-4218-a359-110d33315c50,takeonboard.cc,premium,,,,1,13,,,
 44de2508-250f-4399-849c-b0a19c1f7260,sixtynine.cc,premium,,,78,8,10,,,
 e200a18c-b39f-4dba-9be9-97013920d8ca,awakened.cc,premium,,,66,12,8,,,
@@ -3335,7 +3337,7 @@ bab588b6-e8c5-4a89-90a2-432a9885be3a,draggled.cc,premium,,,42,1,8,,,
 d80d25b3-3baf-417a-8e54-6d61d19f9f1a,bowleg.cc,premium,,,52,2,6,,,
 73d1c60a-1087-49d8-b287-111a65c93769,mahfugga.cc,premium,,,62,1,8,,,
 7fe155a2-a043-4d94-b53a-0d990f3cb8db,olympia.cc,resell,,,68,23,7,Dynadot Inc,02/06/2024 08:03,02/06/2026 08:03
-f16305d8-1273-4315-ad6e-50693a98e6bc,bright.cc,resell,,,74,39,6,"22net, Inc.",11/10/2013 08:06,11/10/2026 08:06
+f16305d8-1273-4315-ad6e-50693a98e6bc,bright.cc,resell,,,74,38,6,"22net, Inc.",11/10/2013 08:06,11/10/2026 08:06
 669ec2b0-b90e-4616-bdac-b395fb31fc63,justyet.cc,premium,,,50,1,8,,,
 eca8f53c-bdb8-4573-899f-a76e33c9120f,categorically.cc,premium,,,54,2,13,,,
 739c0f7c-2c2d-4ece-a670-ab9c7f69d9ae,oliveoil.cc,resell,,,,14,9,"GoDaddy.com, LLC",20/06/2020 17:20,20/06/2026 17:20
@@ -3357,10 +3359,10 @@ c81e0c2d-7c4c-47a0-a3b2-636a7518f144,conductor.cc,resell,,,74,20,9,Dynadot Inc,0
 ac2e459b-b352-4e5b-bdee-8f08db2cd99a,antitumor.cc,premium,,,88,2,9,,,
 798c3c2f-70d0-41fc-9a88-97fbe88f09c9,utmost.cc,premium,,,92,8,6,,,
 b6cae94e-7487-48ce-8c7c-5db54b9a7517,legalheir.cc,premium,,,67,1,10,,,
-456fd0c0-ed32-4b62-94ab-3e8aadf5943e,skilful.cc,available,13.98,,74,4,7,namecheap,,
+456fd0c0-ed32-4b62-94ab-3e8aadf5943e,skilful.cc,available,13.98,,74,3,7,namecheap,,
 188585e2-e225-4da2-8386-840cfe20b82f,birthcertificate.cc,premium,,,66,5,17,,,
 8facbefc-6bfb-467f-b315-1cbc73c8d995,whitetea.cc,premium,,,,4,9,,,
-47f5ff8e-42b6-451c-a716-e51833069855,converted.cc,premium,,,64,7,9,,,
+47f5ff8e-42b6-451c-a716-e51833069855,converted.cc,premium,,,64,6,9,,,
 62e9ce20-719e-448d-9fe2-2ddb3d16600a,curative.cc,resell,,,92,26,8,Dynadot Inc,25/11/2023 15:24,25/11/2026 15:24
 4be99e56-2de1-4a82-a02c-59e24ae58ddd,commenting.cc,premium,,,66,2,10,,,
 ae9474f7-27ce-47c0-99f6-612c47f4c903,sitloose.cc,premium,,,,1,9,,,
@@ -3480,7 +3482,7 @@ e7c0e800-c6b2-447c-8698-29bff1b9ca88,appressed.cc,premium,,,56,1,9,,,
 3a1aa4bf-91da-4282-80c3-1bcb8b76e6de,alkahestic.cc,premium,,,46,1,10,,,
 3d38432f-57e3-4adc-9a7b-7b6bfd89e9ac,transferableskill.cc,premium,,,76,1,18,,,
 6354995c-be60-46e0-921b-c423baca7dc9,passalong.cc,premium,,,75,3,10,,,
-4675ef73-bb69-4cb1-80a6-c3d0f8241339,marginal.cc,premium,,,74,10,8,,,
+4675ef73-bb69-4cb1-80a6-c3d0f8241339,marginal.cc,premium,,,74,9,8,,,
 2ef29441-e1d8-4bc6-9339-3fc947e7d45f,accusing.cc,premium,,,62,1,8,,,
 15968111-962b-49be-91d1-6f6ac5142ea8,havegot.cc,premium,,,70,1,8,,,
 445ae2bf-c5ec-413a-9027-6a3fe3e4ac80,aphasic.cc,premium,,,68,2,7,,,
@@ -3525,7 +3527,7 @@ c0a2ac01-347d-4174-b6e4-8fdef389a289,retain.cc,resell,,,98,11,6,Dynadot Inc,11/0
 b99644dc-53f3-4064-ac81-eb9a0f631742,twatabout.cc,premium,,,,1,10,,,
 7b713852-bd8b-4500-9d6d-8d2c06c8af31,publicized.cc,premium,,,67,2,10,,,
 3ca99d5f-683b-4d71-9e2e-a875c4620dff,midFebruary.cc,premium,,,98,1,12,,,
-96ef26e9-8d43-4505-ab55-31a90bd396b5,amenable.cc,premium,,,68,3,8,,,
+96ef26e9-8d43-4505-ab55-31a90bd396b5,amenable.cc,premium,,,68,2,8,,,
 4ec89e59-fd7b-425c-acae-2bd3d6bd9d41,airheaded.cc,premium,,,48,1,9,,,
 312a227a-22dc-42fc-b6c8-921246df4cd0,IsaidwhatIsaid.cc,premium,,,54,2,18,,,
 10f8ce02-ddd0-4620-a33c-c27364143979,incredible.cc,resell,,,82,27,10,Dynadot Inc,19/05/2024 08:03,19/05/2026 08:03
@@ -3626,7 +3628,7 @@ c35b9c70-14a4-4fe2-be6e-dc50e9d00329,paint.cc,resell,,,66,26,5,"Chengdu West Dim
 e5b9c862-a434-4803-b082-05f3246f599d,unadvisable.cc,premium,,,52,1,11,,,
 851da56d-e924-4bd6-9443-36dab3828fa7,restinpeace.cc,premium,,,,5,13,,,
 653e2f40-16bc-49c6-8b69-7c10ea610d9e,smart.cc,resell,,,74,99,5,"eName Technology Co., Ltd.",12/08/2006 08:00,12/08/2026 08:00
-1e5487d4-2660-4f6b-a964-2b462e5169d7,behind.cc,resell,,,102,12,6,Dynadot Inc,09/11/2025 22:04,09/11/2027 22:04
+1e5487d4-2660-4f6b-a964-2b462e5169d7,behind.cc,resell,,,102,13,6,Dynadot Inc,09/11/2025 22:04,09/11/2027 22:04
 756a6545-a943-4722-8700-cef6c9303c93,entrenched.cc,premium,,,56,2,10,,,
 2af0f58e-71f5-44c5-b0a7-50aac33f3603,bulletinboard.cc,premium,,,66,5,14,,,
 5d7d593d-0806-47a5-9bbd-73addc354d25,cordlesstelephone.cc,premium,,,76,1,18,,,
@@ -3677,7 +3679,7 @@ f512cfe2-9f1b-43ea-8bbe-372e9e085c2f,kilogramme.cc,premium,,,66,2,10,,,
 f2a8fde2-9c0a-4269-b60a-d49d12f6a2e1,sleepwith.cc,premium,,,,1,10,,,
 c62625f0-6109-44c1-9818-8cd10b19003e,execrable.cc,premium,,,48,1,9,,,
 d04e8d8f-530a-4b90-b009-06f823a94c4e,childendangerment.cc,premium,,,52,1,18,,,
-58b1b57a-d156-4e09-9ea4-7dca7a7f3638,tender.cc,resell,,,120,26,6,Dynadot Inc,27/06/2021 08:00,27/06/2026 08:00
+58b1b57a-d156-4e09-9ea4-7dca7a7f3638,tender.cc,resell,,,120,25,6,Dynadot Inc,27/06/2021 08:00,27/06/2026 08:00
 6dcfa8d1-8dec-4b8b-8fd3-af38d401895a,violated.cc,premium,,,52,3,8,,,
 6771c2cd-4dd6-4f5f-912c-e3b319e4454b,AustraliaDay.cc,premium,,,70,2,13,,,
 88cd924e-327b-4c94-b2e9-e246a410451d,bum.cc,resell,,,100,16,3,Dynadot Inc,08/02/2006 10:47,08/02/2026 10:47
@@ -3695,7 +3697,7 @@ f306a387-01c9-4c4c-8909-56230959f601,cucumber.cc,resell,,,70,13,8,Dynadot Inc,02
 db9bbe6f-907f-4bf6-9683-b92c29534e83,acetonic.cc,premium,,,46,1,8,,,
 5fbbd521-7810-4d1e-bbfb-01dd106c4572,archeozoic.cc,premium,,,56,1,10,,,
 4962e949-6560-4db8-95f6-5e4e9a722976,thickandthin.cc,premium,,,,2,14,,,
-cb3814ec-6d8f-4e3e-b108-e3cbdfef95d2,infront.cc,available,13.98,,60,10,8,namecheap,,
+cb3814ec-6d8f-4e3e-b108-e3cbdfef95d2,infront.cc,available,13.98,,60,9,8,namecheap,,
 00970777-8b83-43ee-a743-558cbac1a97f,thousand.cc,resell,,,84,9,8,Namecatch Zone LLC,15/02/2026 09:09,15/02/2027 09:09
 318f68bb-3ddf-4ce1-883b-4f825fd6912c,albinal.cc,premium,,,56,1,7,,,
 cb9a5719-5349-4a42-aebd-2856700da83d,reported.cc,premium,,,64,5,8,,,
@@ -3754,7 +3756,7 @@ caf09b70-2f91-4bee-89f1-a7930f6dea63,ablaze.cc,resell,,,72,6,6,Dynadot Inc,09/06
 c0616b29-ad8e-4b19-80d3-2ed980b6f0de,changing.cc,premium,,,64,11,8,,,
 24e6dc65-6fd5-4232-a206-1afadf57e682,riled.cc,premium,,,44,2,5,,,
 0faf4b6b-b129-45fb-82cd-b550e988b7ac,abortive.cc,available,12.98,,90,1,8,namecheap,,
-e5924eca-137d-46f2-b300-abfc0a3d7bad,answering.cc,premium,,,74,6,9,,,
+e5924eca-137d-46f2-b300-abfc0a3d7bad,answering.cc,premium,,,74,7,9,,,
 9394cae7-41d7-4d87-b69b-5dd2a739a55e,dieselengine.cc,premium,,,70,3,13,,,
 bbb75a28-e9c8-44b5-9c17-3650f37f7056,beatable.cc,premium,,,46,1,8,,,
 1452fbd8-a0e2-4f0a-b5d8-79dee504a084,attached.cc,premium,,,66,4,8,,,
@@ -3810,7 +3812,7 @@ d2621175-eda7-4e1b-89da-635ef67d5a0c,actinic.cc,premium,,,50,2,7,,,
 01205fa4-ffe7-42c3-8838-3c78d0a3a58a,isolated.cc,premium,,,56,8,8,,,
 01720988-7c9f-4210-8390-fd7795f92396,naturewriting.cc,premium,,,,2,14,,,
 c2cb5a71-0391-4421-bfcc-f09ac3930399,astronomic.cc,premium,,,50,4,10,,,
-dc2d2aeb-3ae0-46e0-a5d2-d200e48ffb8e,adoring.cc,available,13.98,,90,5,7,namecheap,,
+dc2d2aeb-3ae0-46e0-a5d2-d200e48ffb8e,adoring.cc,available,13.98,,90,4,7,namecheap,,
 1a0e38fa-c594-47b3-8c29-79525ee37266,chiefjustice.cc,premium,,,68,1,13,,,
 9ccd22c0-1036-4f58-9f85-94ee026c61a7,congrats.cc,premium,,,96,7,8,,,
 e5e0020f-6741-4990-af46-e2edd0e3299e,abreast.cc,premium,,,72,3,7,,,
@@ -4011,7 +4013,7 @@ cca12ef7-29ce-4f19-b10d-ec14bf99374b,Irestmycase.cc,premium,,,54,2,14,,,
 d5cccbf6-ed86-42cf-8226-52f399a6cc4d,howabout.cc,premium,,,64,7,9,,,
 57419f65-b6d2-4d81-aaf0-8ceb1103a936,animist.cc,premium,,,62,5,7,,,
 db6ac1b1-26b3-4d0b-aa69-c778ac7bed5d,garbed.cc,premium,,,50,1,6,,,
-4915a572-707d-4744-a4cc-a52768406887,bow.cc,resell,,,80,20,3,"GoDaddy.com, LLC",12/10/2006 23:41,12/10/2026 23:41
+4915a572-707d-4744-a4cc-a52768406887,bow.cc,resell,,,80,19,3,"GoDaddy.com, LLC",12/10/2006 23:41,12/10/2026 23:41
 eca8ceda-eca5-46b3-a1fa-7ddd76f8bd88,anabiotic.cc,premium,,,64,1,9,,,
 ea4210a7-bbba-48ce-8fb3-8aa273e33e92,anorthic.cc,premium,,,50,1,8,,,
 009b25ee-fb13-47cb-a7c8-68a45556c194,quarterof.cc,premium,,,,1,10,,,
@@ -4137,7 +4139,7 @@ b88fd3e7-18fe-49fe-8b26-aafcc5fa3a8c,alabaster.cc,premium,,,82,8,9,,,
 6c407c85-ee63-409d-a819-ae948d79cd12,asthenic.cc,premium,,,52,1,8,,,
 4ddfc72d-7bc2-45af-a06a-524387dac721,fit.cc,resell,,,88,41,3,"Spaceship, Inc.",26/08/2013 08:03,26/08/2026 08:03
 fc6aa572-7156-42c7-95ab-f72b02e7b9dd,allseasontire.cc,premium,,,76,1,15,,,
-e2da909a-3a61-4786-bd01-6f455006506f,bizarre.cc,resell,,,74,14,7,"Spaceship, Inc.",04/07/2025 08:04,04/07/2026 08:04
+e2da909a-3a61-4786-bd01-6f455006506f,bizarre.cc,resell,,,74,13,7,"Spaceship, Inc.",04/07/2025 08:04,04/07/2026 08:04
 0a681655-1d60-4c90-8f25-24e700b60fd2,airdry.cc,premium,,,64,5,7,,,
 d6d0b828-b9ff-4a26-87b3-b7c5e75fd9ba,relatedto.cc,premium,,,64,1,10,,,
 a83cdace-82ac-4d7c-813c-a850aa1ded74,dice.cc,resell,,,62,31,4,Dynadot Inc,27/12/2004 12:21,27/12/2026 12:21
@@ -4156,7 +4158,7 @@ cdb750fe-cd8c-41fc-ab22-b8a1172bfc3a,barebacked.cc,premium,,,50,1,10,,,
 00ea3235-a6a0-4319-a084-ceb24e61600e,airless.cc,premium,,,52,5,7,,,
 a994bfcc-4feb-4ce5-ae14-337024e5a142,deepdishpizza.cc,premium,,,80,1,15,,,
 ca9f9db7-bdc6-4ffd-9d9b-c95b8cb1e155,jacks.cc,resell,,,65,18,5,Dynadot Inc,26/01/2025 13:34,26/01/2027 13:34
-0b80b91f-6e90-47e1-aae2-bcfb48e081e7,fan.cc,resell,,,88,37,3,"GoDaddy.com, LLC",24/08/2005 19:15,24/08/2026 19:15
+0b80b91f-6e90-47e1-aae2-bcfb48e081e7,fan.cc,resell,,,88,36,3,"GoDaddy.com, LLC",24/08/2005 19:15,24/08/2026 19:15
 46084a1a-2ea1-4038-aaa9-6db2b5fe20a0,lenitive.cc,premium,,,84,1,8,,,
 d235a4fc-732f-4197-afe0-e01336281740,Duracell.cc,premium,,,92,6,8,,,
 468e89ea-3b59-470d-94f0-ae034913d196,olympics.cc,resell,,,68,23,8,Dynadot Inc,08/04/2025 08:44,08/04/2026 08:44
@@ -4176,7 +4178,7 @@ da967d18-05e7-4af4-b06c-b805dbd137ab,aldermanic.cc,premium,,,52,1,10,,,
 eb24d238-a3cd-454f-b2b9-a1d0adab098b,WordofAllah.cc,premium,,,,1,13,,,
 fc51c7da-bd67-4c2b-9244-7df57e6a0d07,asaresultof.cc,premium,,,54,1,14,,,
 2e9e08b1-44e4-4850-ab57-6bb0234c5042,oddfish.cc,premium,,,,4,8,,,
-6b7c3adf-4d9c-4e2b-9437-252d3e2298cc,inherent.cc,premium,,,68,12,8,,,
+6b7c3adf-4d9c-4e2b-9437-252d3e2298cc,inherent.cc,premium,,,68,11,8,,,
 5304b256-72b6-490f-ba4e-23911c9fe375,asopposedto.cc,premium,,,50,1,13,,,
 b4e7e5fc-e6f3-4835-b5ab-aa32bbe03553,appoint.cc,resell,,,78,10,7,Dynadot Inc,13/07/2024 06:19,13/07/2027 06:19
 a86a72fd-fa97-4554-9b8b-993f5f5b78a0,condition.cc,resell,,,92,11,9,Dynadot Inc,13/01/2025 09:23,13/01/2027 09:23
@@ -4191,7 +4193,7 @@ d342fd91-699a-47a9-b583-e494f57e184b,publicised.cc,premium,,,67,0,10,,,
 0ebbb657-18d9-408f-bf08-bc529c296e1b,unstoppable.cc,resell,,,78,22,11,Gname 204 Inc,17/12/2024 09:03,17/12/2026 09:03
 d6b7dd25-6631-40eb-bf6b-ee3eb3b0a326,textile.cc,resell,,,86,19,7,Dynadot Inc,13/10/2007 08:15,13/10/2026 08:15
 7786123a-4e7d-419c-b4fb-c48359691bf1,dominating.cc,premium,,,46,3,10,,,
-d5904ad6-f971-4ca2-8615-6dcd3b205312,backwards.cc,premium,,,70,10,9,,,
+d5904ad6-f971-4ca2-8615-6dcd3b205312,backwards.cc,premium,,,70,9,9,,,
 0ac028e1-a6e6-439f-b164-0426e0225e6e,debase.cc,premium,,,60,4,6,,,
 0fddd482-b75e-4c54-ad37-d2d5cc3eeb20,Himself.cc,available,13.98,,64,6,7,namecheap,,
 d1b678ca-82eb-4547-a4dd-3582a7ec40ae,xxxvi.cc,premium,,,56,1,5,,,
@@ -4402,7 +4404,7 @@ c8a3ef9a-68f7-4d48-87c2-acda0e32c54d,real.cc,resell,,,78,49,4,"GoDaddy.com, LLC"
 bd539d07-8431-4d92-8cbd-217a20c436db,somesing.cc,premium,,,58,2,8,,,
 c1997719-38b7-43bc-980c-b3fb59910de8,acuminate.cc,premium,,,70,1,9,,,
 95105aa9-d6f4-463f-a5d9-fac4278a2fab,improvize.cc,premium,,,72,1,9,,,
-1bacf993-96fb-4e2b-88b7-334a951c8b7d,broadband.cc,resell,,,92,19,9,Dynadot Inc,04/08/2004 19:05,04/08/2026 19:05
+1bacf993-96fb-4e2b-88b7-334a951c8b7d,broadband.cc,resell,,,92,20,9,Dynadot Inc,04/08/2004 19:05,04/08/2026 19:05
 b245c94e-a6e7-44e2-bda3-284d51557fc5,archaistic.cc,premium,,,64,1,10,,,
 75836100-2465-4b8c-85b0-83a4abc2d6d6,justified.cc,premium,,,66,7,9,,,
 e6762663-a998-4ac7-9e96-f702dbf87535,significantly.cc,premium,,,66,3,13,,,
@@ -4522,7 +4524,7 @@ fb391050-0133-422d-84e0-37abdb218352,politicalparty.cc,premium,,,66,4,15,,,
 76675be8-724c-4aff-ac24-b46ff0328459,analgetic.cc,premium,,,64,1,9,,,
 5f4e0b45-6a12-4d2a-9849-ce37fb1d1afe,Nicki.cc,resell,,,66,8,5,Porkbun LLC,12/09/2019 12:18,12/09/2026 12:18
 0b29d669-8053-445c-a200-984e8e436a65,deuce.cc,resell,,,66,9,5,"Spaceship, Inc.",15/09/2025 06:37,15/09/2026 06:37
-74a243d9-5cdb-4b90-9b44-1a9cdc758301,prejudice.cc,premium,,,86,3,9,,,
+74a243d9-5cdb-4b90-9b44-1a9cdc758301,prejudice.cc,premium,,,86,4,9,,,
 e20f6b8a-b68c-4fc1-95f2-5096807db7d9,generalstudies.cc,premium,,,76,3,15,,,
 aec9d76b-1077-4f54-b4ca-3f5f3f35a373,askew.cc,resell,,,44,8,5,"Spaceship, Inc.",02/04/2024 21:18,02/04/2026 21:18
 e4c0fa5b-eb44-4673-9b9b-e8539e7e1ef3,bellbottom.cc,premium,,,34,1,10,,,
@@ -4571,7 +4573,7 @@ f1e316fd-aaf4-4fd0-9020-80a119b8bcdd,bug.cc,resell,,,76,31,3,"NameSilo, LLC",21/
 59b34061-c5e7-4221-b437-c6eb735aab55,treehugger.cc,premium,,,,5,11,,,
 4b44c61a-f4ea-401a-acaa-fc80a2bddc6c,confirming.cc,available,13.98,,73,5,10,namecheap,,
 a506dd34-3423-4120-80da-f265fa88789e,avionic.cc,premium,,,58,4,7,,,
-bbb50c2d-8935-4516-9a5f-691597584513,champion.cc,resell,,,72,33,8,"Alibaba Cloud Computing (Beijing) Co., Ltd.",30/08/2012 08:00,30/08/2026 08:00
+bbb50c2d-8935-4516-9a5f-691597584513,champion.cc,resell,,,72,32,8,"Alibaba Cloud Computing (Beijing) Co., Ltd.",30/08/2012 08:00,30/08/2026 08:00
 5a3c8e10-483d-4d90-bdc6-0671ad7b795c,waste.cc,resell,,,104,22,5,Dynadot Inc,25/09/2020 08:00,25/09/2026 08:00
 c43f753f-aff7-47ff-bfe6-8b78a1523994,disappointed.cc,premium,,,58,5,12,,,
 e5a46131-6f4c-4fde-959f-420a1a92d6e5,potbellied.cc,premium,,,56,1,10,,,
@@ -4588,7 +4590,7 @@ d4787f71-e289-4ebd-a335-731d2e372036,atthecostof.cc,premium,,,44,1,14,,,
 1a240ebe-39bf-4d4e-b7e8-aadf87f1a33f,archaean.cc,premium,,,50,1,8,,,
 b02fa5b9-d78a-453c-befc-6da965ba9d3e,rejected.cc,premium,,,52,7,8,,,
 a90e3e8a-d2d6-4c71-a125-75a5bc45516b,teastrainer.cc,premium,,,73,1,12,,,
-027756ba-f5b8-41fb-afa0-53510b72f022,teasing.cc,premium,,,72,5,7,,,
+027756ba-f5b8-41fb-afa0-53510b72f022,teasing.cc,premium,,,72,4,7,,,
 35192f09-ab9d-47be-ada5-0a1d5c72cfa5,whitehot.cc,premium,,,68,3,9,,,
 bb7ed69a-ecec-4f46-b387-3f56c5587c01,gaffer.cc,resell,,,50,8,6,"Spaceship, Inc.",06/10/2023 22:05,06/10/2025 22:05
 63594c9d-571f-483f-b354-0ac66b9e8eb2,columbia.cc,resell,,,66,49,8,"Spaceship, Inc.",18/06/2017 20:03,18/06/2026 20:03
@@ -4608,10 +4610,10 @@ be3b6cda-6891-45de-a5a5-2177564197e5,punch.cc,resell,,,87,26,5,Porkbun LLC,21/09
 c0ebe419-7b25-4de2-9c68-00cf21963744,gandhi.cc,resell,,,92,13,6,"GoDaddy.com, LLC",10/02/2025 09:02,10/02/2027 09:02
 883e4711-da41-4c25-898d-9f67337f900c,clue.cc,resell,,,74,23,4,"GoDaddy.com, LLC",15/11/2014 22:08,15/11/2026 22:08
 3b85f9ed-3cd9-4a4c-8592-05785feee286,produced.cc,premium,,,,3,8,,,
-a30d8bdd-8782-4c35-a83c-c6a926601f6a,playing.cc,resell,,,74,15,7,Gname.com Pte. Ltd.,02/05/2016 04:54,02/05/2027 04:54
+a30d8bdd-8782-4c35-a83c-c6a926601f6a,playing.cc,resell,,,74,13,7,Gname.com Pte. Ltd.,02/05/2016 04:54,02/05/2027 04:54
 64ae4df6-56a7-4135-ac83-693a2f02b837,capital.cc,resell,,,92,40,7,"22net, Inc.",12/10/1997 04:00,12/10/2026 04:00
 00c74ee9-c749-40f2-9223-4cc43b432034,propose.cc,premium,,,100,7,7,,,
-fc5d29ac-d727-42ae-a8c2-f4956efeedc5,actual.cc,resell,,,96,27,6,Dynadot Inc,21/07/2023 08:01,21/07/2026 08:01
+fc5d29ac-d727-42ae-a8c2-f4956efeedc5,actual.cc,resell,,,96,26,6,Dynadot Inc,21/07/2023 08:01,21/07/2026 08:01
 ab8f0cff-6f23-494b-99ef-28b6028c9bd0,manytimes.cc,premium,,,58,2,10,,,
 53439e6e-646d-45be-94de-e1ef41fe1cdc,systematically.cc,premium,,,56,2,14,,,
 b12be2f7-79d5-4876-9d6c-3512b3259c57,speedlimit.cc,premium,,,66,3,11,,,
@@ -4676,11 +4678,11 @@ b4388df7-cfd3-4a17-89d6-19dba2206671,eyeofthebeholder.cc,premium,,,70,3,19,,,
 19b102d7-44f2-4eeb-b69d-8a269a088c61,maternal.cc,premium,,,86,7,8,,,
 c3ae4b4c-ba7e-44da-83af-34ded1d96e42,stroke.cc,resell,,,92,15,6,Zhuimi Inc,08/03/2021 09:00,08/03/2027 09:00
 5186ad6c-ed7f-4232-8c49-f43d4500a693,approval.cc,resell,,,64,8,8,Porkbun LLC,05/05/2019 23:39,05/05/2026 23:39
-3243cdd9-b8ad-4e96-8114-0d046e191a8d,auroral.cc,premium,,,70,5,7,,,
+3243cdd9-b8ad-4e96-8114-0d046e191a8d,auroral.cc,premium,,,70,6,7,,,
 f2648f76-2e80-4427-9593-fa7c19f76f8d,realized.cc,available,13.98,,71,12,8,namecheap,,
 9a45b8d0-af3c-404e-9a1a-011e6505d138,anurous.cc,premium,,,50,1,7,,,
 537a678d-605c-4341-b079-b21584cd076b,snapping.cc,premium,,,66,2,8,,,
-3e7b14ff-3706-458c-b690-284fd712d59b,prenuptial.cc,premium,,,88,3,10,,,
+3e7b14ff-3706-458c-b690-284fd712d59b,prenuptial.cc,premium,,,88,2,10,,,
 e796ff9d-2cbf-4abb-85d0-4b431726ca30,pour.cc,resell,,,96,14,4,Dynadot Inc,25/08/2023 08:02,25/08/2026 08:02
 dab7155d-0abc-4b3c-b3bb-3e8c547ac366,accusation.cc,premium,,,66,3,10,,,
 8b144acc-34cd-499b-ba55-3f0c4d695b24,letterspacing.cc,premium,,,67,1,14,,,
@@ -4705,7 +4707,7 @@ d6cb322e-b597-4761-ba3b-38d77e4241cc,cafeterrace.cc,premium,,,76,1,12,,,
 99ff7627-6f14-4d6c-9108-9a8508e87af7,spiceup.cc,premium,,,72,6,8,,,
 60ab458c-0636-4150-9e83-91c7879a7c4d,TempleCity.cc,premium,,,,2,11,,,
 98962ce9-2a44-4e33-acd8-005250d8e001,asteroidal.cc,premium,,,48,1,10,,,
-466e396d-359f-4894-8866-b27bcc90e775,gas.cc,resell,,,72,32,3,"22net, Inc.",17/08/2006 08:00,17/08/2027 08:00
+466e396d-359f-4894-8866-b27bcc90e775,gas.cc,resell,,,72,31,3,"22net, Inc.",17/08/2006 08:00,17/08/2027 08:00
 24034f2e-a8f6-4716-8dfc-289009b9b0e0,yoursever.cc,premium,,,,1,10,,,
 f5d32068-ae89-4df3-9a37-c086ac4cb8a8,repel.cc,premium,,,70,6,5,,,
 68290540-4b47-4b3a-96bf-869a53dcb88c,ascitic.cc,premium,,,54,1,7,,,
@@ -4877,7 +4879,7 @@ d366b604-3590-47df-bec9-882d494ab2ce,anamorphic.cc,premium,,,46,4,10,,,
 f1a91d12-ea4a-4113-a72a-6fec5d0a1212,jellybaby.cc,premium,,,76,2,10,,,
 8bb72b55-9558-41ea-a2ac-e2f472434b04,diskbrake.cc,premium,,,66,1,10,,,
 0f469836-e833-4fef-8c4e-3e6d5f34fd18,glove.cc,resell,,,88,13,5,Dynadot Inc,20/08/2023 08:01,20/08/2026 08:01
-7fb29b87-6d6f-4b91-81fe-373af0900928,asteroid.cc,resell,,,66,18,8,Dynadot Inc,09/08/2020 18:42,09/08/2026 18:42
+7fb29b87-6d6f-4b91-81fe-373af0900928,asteroid.cc,resell,,,66,19,8,Dynadot Inc,09/08/2020 18:42,09/08/2026 18:42
 706f0b9c-295f-4843-a30c-0d84ce25b3cd,afferent.cc,premium,,,70,3,8,,,
 37181dac-5f7d-42a0-8d59-a6defdc329f8,shoplift.cc,premium,,,70,7,8,,,
 7eeab991-67d6-4e19-916e-282defcdf802,exercise.cc,resell,,,98,14,8,"GoDaddy.com, LLC",18/06/2006 08:52,18/06/2026 08:52
@@ -5057,7 +5059,7 @@ b8045161-6d9a-4f7d-bce3-63af4b839847,fear.cc,resell,,,58,18,4,Gname 030 Inc,26/0
 caa3331a-f35a-4e08-8b86-a4786964440d,themasses.cc,premium,,,,3,10,,,
 edecc47b-91a7-4fbc-9b68-f9985b3863c8,involve.cc,resell,,,76,13,7,"Spaceship, Inc.",08/02/2026 22:28,08/02/2027 22:28
 a5783ca7-fe87-41b2-ad93-2b3afb1c43bd,aggregate.cc,resell,,,96,12,9,"Easy Street Domains, LLC",01/02/2025 09:01,01/02/2026 09:01
-209cf230-b3e9-4790-906a-64363c4f4b9c,boring.cc,resell,,,62,35,6,"humbly, LLC - ccTLD",04/08/2021 08:00,04/08/2026 08:00
+209cf230-b3e9-4790-906a-64363c4f4b9c,boring.cc,resell,,,62,34,6,"humbly, LLC - ccTLD",04/08/2021 08:00,04/08/2026 08:00
 d67d881a-4af1-4d12-9653-4db6b72541a1,moderator.cc,resell,,,74,10,9,Dynadot Inc,16/09/2023 08:36,16/09/2026 08:36
 21ea395f-0bef-4e3c-84ba-eed3056aac04,audile.cc,premium,,,82,3,6,,,
 ce3c81b0-d06e-40e3-83a9-52bae10bfc12,JusticeofthePeace.cc,premium,,,66,2,20,,,
@@ -5116,7 +5118,7 @@ dacfc841-a77e-4099-a7ba-23aae2d6efde,industrialize.cc,premium,,,66,4,13,,,
 444f6018-8199-4a8b-b7c5-c9002894db77,purgative.cc,premium,,,54,1,9,,,
 68e868ba-ffc5-4899-87f2-8f11c7123110,friendly.cc,resell,,,104,33,8,Dynadot Inc,19/09/2022 08:03,19/09/2026 08:03
 f6d399b1-bb23-49d7-82e9-9f243ebde996,abducting.cc,available,13.98,,50,1,9,namecheap,,
-fa01d22c-1c47-4477-9ee5-271144d63999,fierce.cc,resell,,,80,28,6,Unstoppable Domains Inc.,15/02/2023 09:01,15/02/2027 09:01
+fa01d22c-1c47-4477-9ee5-271144d63999,fierce.cc,resell,,,80,30,6,Unstoppable Domains Inc.,15/02/2023 09:01,15/02/2027 09:01
 3fd429e1-fc78-4850-a2fa-3c978b78b805,playabout.cc,premium,,,,2,10,,,
 9a46a0c5-35a7-4843-be83-5620fbaae855,generalquarters.cc,premium,,,60,2,16,,,
 09064059-d4f4-407c-b914-915566d4aaa4,abovetheline.cc,premium,,,54,4,14,,,
@@ -5146,7 +5148,7 @@ cd71ce27-991f-4b0c-bf6a-bda769e039e9,organised.cc,premium,,,72,7,9,,,
 9090a3f3-8c28-4b36-8e71-e13df0dd60ac,anall.cc,premium,,,56,1,6,,,
 c8d9c3f0-fa4f-4697-ad42-95a5ad30fc8b,aliphatic.cc,premium,,,64,1,9,,,
 c680f28c-3034-4360-9abb-57e9cf766c9c,eremitical.cc,premium,,,46,1,10,,,
-6f0716df-ebce-4cf1-8e52-fdc9edb146b1,abstract.cc,resell,,,108,30,8,"GoDaddy.com, LLC",15/07/2019 08:00,15/07/2026 08:00
+6f0716df-ebce-4cf1-8e52-fdc9edb146b1,abstract.cc,resell,,,108,31,8,"GoDaddy.com, LLC",15/07/2019 08:00,15/07/2026 08:00
 de4e04ca-5f78-4a87-b453-90dab8d39267,altaic.cc,premium,,,54,2,6,,,
 ab6f5766-e7b0-4bc4-936f-920bb5d6b739,TahoeCity.cc,premium,,,,3,10,,,
 f58204a3-f96b-4804-858d-005c0e082473,tossout.cc,premium,,,64,1,8,,,
@@ -5157,7 +5159,7 @@ bd09e9dd-33ff-4c06-a663-70a465cc9f7b,evrything.cc,premium,,,60,2,9,,,
 15a52236-2cbf-46d7-890d-dffbadde107a,contend.cc,premium,,,72,7,7,,,
 bee43d8d-40cc-433b-ad2b-fbbc49862d1a,fiftieth.cc,premium,,,68,1,8,,,
 afa74240-0373-4717-a57d-f70d430aff0a,perforation.cc,premium,,,,2,11,,,
-848650c4-ed7d-42fa-afb7-b786c3076e12,subsidiary.cc,resell,,,90,3,10,"GoDaddy.com, LLC",10/02/2025 07:11,10/02/2027 07:11
+848650c4-ed7d-42fa-afb7-b786c3076e12,subsidiary.cc,resell,,,90,4,10,"GoDaddy.com, LLC",10/02/2025 07:11,10/02/2027 07:11
 55a93798-1dd6-42fb-bf86-d75c674b1f2e,flaring.cc,premium,,,70,2,7,,,
 ec18c18f-3ba5-487e-a80a-2a36305c38b6,sextet.cc,premium,,,66,2,6,,,
 6dc2c981-4867-47d4-aee2-b6f90fbe564e,anachronic.cc,premium,,,46,3,10,,,
@@ -5247,7 +5249,7 @@ af2a3a73-df1e-45ba-84da-81057db2c433,majority.cc,resell,,,76,12,8,Dynadot Inc,25
 4fec8ed8-5a87-40f4-a9f3-d2faa6f6ec04,emergency.cc,resell,,,58,24,9,Dynadot Inc,27/02/2023 09:01,27/02/2027 09:01
 802ef8c8-5d68-4fe1-ae87-4933b6017804,letknow.cc,premium,,,74,2,8,,,
 ff2a0064-5ff6-4234-83b3-44c3dc48123d,clerk.cc,resell,,,60,20,5,Gname 352 Inc,30/05/2025 08:01,30/05/2026 08:01
-9e21daf3-2af5-4f18-8dbc-68aa9724027d,off.cc,resell,,,70,28,3,"22net, Inc.",26/11/2008 14:58,26/11/2026 14:58
+9e21daf3-2af5-4f18-8dbc-68aa9724027d,off.cc,resell,,,70,29,3,"22net, Inc.",26/11/2008 14:58,26/11/2026 14:58
 fd8da4e6-8860-4a03-b04c-d855bd6b5017,realised.cc,available,13.98,,71,4,8,namecheap,,
 59358ca9-581b-4d7e-86c6-9472df13a326,motherfukka.cc,premium,,,62,1,11,,,
 e39161d8-4ed1-43e6-b4f8-c62e345a0f57,beakless.cc,premium,,,36,1,8,,,
@@ -5304,7 +5306,7 @@ c4e019c1-8d0e-4c79-9f6c-4d24cb46eb41,grandmother.cc,premium,,,82,6,11,,,
 9bd6c266-ea53-4822-a587-561d2abc4e50,artofthepossible.cc,premium,,,52,2,19,,,
 c1ace1c1-f8e6-4161-87a3-e14e36a816e2,NewChicago.cc,premium,,,,2,11,,,
 7b0f6cd7-83a1-45b9-8d11-b10f7319741e,adept.cc,resell,,,92,26,5,"GoDaddy.com, LLC",02/06/2008 01:51,02/06/2026 01:51
-6936fd8a-4644-4da8-a352-c0ddafc3f0b5,weakened.cc,premium,,,52,2,8,,,
+6936fd8a-4644-4da8-a352-c0ddafc3f0b5,weakened.cc,premium,,,52,1,8,,,
 8ccc798c-5751-4a00-8354-42f5044481e2,asyoulike.cc,premium,,,92,2,11,,,
 721dd211-9109-4481-b014-941ac840449f,howdoyoulike.cc,premium,,,56,1,15,,,
 7613fa8b-52de-4515-8ea3-567a42dab484,aperiodic.cc,premium,,,46,2,9,,,
@@ -5514,7 +5516,7 @@ c55a6ceb-9998-4e89-99c0-630d69c7cf62,lookinto.cc,premium,,,70,3,9,,,
 394bc0a1-a609-43ef-b0d4-d5c4b9f319f8,invariably.cc,premium,,,62,2,10,,,
 9bd43ace-c14b-425d-a62c-8240420b90f7,pitching.cc,premium,,,72,6,8,,,
 d59d0ff6-db7d-48b9-a573-6a55117c0536,allmetal.cc,premium,,,52,4,9,,,
-13749221-85d5-4277-80fe-3361a5e76088,powerful.cc,resell,,,82,29,8,"Spaceship, Inc.",30/09/2024 08:03,30/09/2026 08:03
+13749221-85d5-4277-80fe-3361a5e76088,powerful.cc,resell,,,82,27,8,"Spaceship, Inc.",30/09/2024 08:03,30/09/2026 08:03
 46d512d6-fb57-4b26-a1d0-0d5dcfebe835,bestfriend.cc,resell,,,72,8,11,"Spaceship, Inc.",11/05/2021 09:37,11/05/2026 09:37
 7681fbb2-7f2a-4c52-a9f5-b8855d85d291,bloodplasma.cc,premium,,,70,1,12,,,
 a445fa20-0367-4b18-985f-02e113bea07c,grandson.cc,premium,,,78,6,8,,,
@@ -5599,7 +5601,7 @@ a1c29acb-66df-4201-91fe-77319dc1e1f1,offof.cc,premium,,,50,1,6,,,
 ec7d85cb-5464-40dc-894b-5b58847784e0,basketball.cc,resell,,,102,29,10,Dynadot Inc,12/10/2004 07:17,12/10/2026 07:17
 f8228a03-97c9-45cb-9c0f-dd72c0424d05,idiotic.cc,resell,,,60,6,7,Dynadot Inc,01/03/2025 11:46,01/03/2035 11:46
 8ea87a32-ef85-4b40-a596-7b32c7bde3f8,shiftabout.cc,premium,,,,1,11,,,
-143c379a-f182-477b-8365-61c748c1e3d5,mean.cc,resell,,,64,15,4,"GoDaddy.com, LLC",19/08/2008 15:06,19/08/2026 15:06
+143c379a-f182-477b-8365-61c748c1e3d5,mean.cc,resell,,,64,16,4,"GoDaddy.com, LLC",19/08/2008 15:06,19/08/2026 15:06
 abdd2482-2dee-48de-a25f-fb92c985c18e,painkiller.cc,premium,,,54,7,10,,,
 e1404dc7-a4a3-4f36-a042-5a34640e8b65,radar.cc,resell,,,68,39,5,"GoDaddy.com, LLC",30/04/2018 08:01,30/04/2027 08:01
 570a6848-1c7f-446d-bcaa-56a697c1fddc,rightandleft.cc,premium,,,,3,14,,,
@@ -5617,7 +5619,7 @@ cf1171ed-9564-489d-badc-6ca1f19ef1b4,overhang.cc,premium,,,70,4,8,,,
 45e29aaf-64e9-414e-878e-9adca6e125af,leasing.cc,resell,,,70,23,7,Dynadot Inc,26/03/2016 15:09,26/03/2026 15:09
 62f5a385-0d7a-4555-a24d-d912a2c37da9,indrawing.cc,premium,,,,1,10,,,
 27d11d30-3bb3-4ba0-8663-0adea023d101,contained.cc,available,13.98,,64,8,9,namecheap,,
-988faee2-7313-48fe-8b1a-212426852308,british.cc,resell,,,98,27,7,"22net, Inc.",19/07/1998 04:00,01/06/2026 04:00
+988faee2-7313-48fe-8b1a-212426852308,british.cc,resell,,,98,26,7,"22net, Inc.",19/07/1998 04:00,01/06/2026 04:00
 057b8b00-16d5-4999-8a2a-428804fb04bb,barred.cc,premium,,,52,4,6,,,
 b46a6e5d-3473-4aec-ae7f-b5b459567e9a,televisionchannel.cc,premium,,,70,1,18,,,
 1eecf3f9-adcc-4631-8d73-3d90928465c7,Latinalphabet.cc,premium,,,72,2,14,,,
@@ -5635,7 +5637,7 @@ efc86e34-5d33-4de5-8114-f8dfdd548f67,publicschool.cc,premium,,,70,3,13,,,
 c4edc6d8-af31-4205-8999-23a365373ff9,bankmachine.cc,premium,,,68,1,12,,,
 09d5e4fb-3f5f-4e16-a7c8-90c9daca058a,chiseling.cc,premium,,,60,1,9,,,
 a449186f-013f-4be7-a5c4-a4f2202c9050,airpollution.cc,premium,,,60,2,13,,,
-209298ad-8e3d-413b-8022-f3ea27fd54b5,licenced.cc,available,13.98,,68,2,8,namecheap,,
+209298ad-8e3d-413b-8022-f3ea27fd54b5,licenced.cc,available,13.98,,68,3,8,namecheap,,
 5112aa94-2f68-41c4-aa00-547ed211ee3d,tieup.cc,premium,,,,3,6,,,
 3a4610b0-8e65-4bb5-b328-78f55c34c8b9,aryan.cc,resell,,,82,14,5,"Spaceship, Inc.",09/02/2021 14:16,09/02/2026 14:16
 62085e05-d069-4ec9-ac45-552c32e887a2,manageable.cc,available,13.98,,74,6,10,namecheap,,
@@ -5665,7 +5667,7 @@ a5e8a171-0564-468f-91f1-013290b4c1b5,powerstrip.cc,premium,,,74,2,11,,,
 1d8a7f36-956d-4c47-b069-ac25fe2746a2,carousing.cc,premium,,,50,1,9,,,
 4ccae925-c55f-4a3d-ad72-9d87be244089,bone.cc,resell,,,64,24,4,"Spaceship, Inc.",14/03/2026 08:08,14/03/2027 08:08
 b42cef2c-99a0-4320-897a-37f16117db7e,raised.cc,resell,,,76,8,6,Dynadot Inc,23/03/2026 08:52,23/03/2027 08:52
-304f383f-32a1-46f9-b8c8-c11adadba1cc,limitless.cc,resell,,,76,56,9,"GoDaddy.com, LLC",08/08/2021 08:01,08/08/2026 08:01
+304f383f-32a1-46f9-b8c8-c11adadba1cc,limitless.cc,resell,,,76,55,9,"GoDaddy.com, LLC",08/08/2021 08:01,08/08/2026 08:01
 b5b640b2-b1f3-4dd8-b59d-9f59fdec81b1,cinderella.cc,resell,,,82,14,10,"Spaceship, Inc.",02/02/2026 09:28,02/02/2027 09:28
 8d456836-5c87-4663-a463-84e8f972a95b,checkinto.cc,premium,,,70,2,10,,,
 353235b1-3ba7-4356-9a49-9e1b3bdffa59,untoward.cc,premium,,,50,1,8,,,
@@ -5688,7 +5690,7 @@ b6208eab-541f-47d1-a363-e02e14f1146b,prepared.cc,available,13.98,,66,14,8,namech
 8e81d56c-aa97-4e24-afa8-693be3c7b0fe,affecting.cc,premium,,,62,1,9,,,
 b825bbbd-653d-4528-af20-667414c16d86,cognisant.cc,premium,,,60,3,9,,,
 7eb05afa-4ee3-4b56-901e-46d5555a49ab,anorectal.cc,premium,,,50,1,9,,,
-43e9413f-5eb1-40e8-bf4e-a6d7d2c1e522,armed.cc,resell,,,70,11,5,Dynadot Inc,09/04/2026 04:55,09/04/2027 04:55
+43e9413f-5eb1-40e8-bf4e-a6d7d2c1e522,armed.cc,resell,,,70,10,5,Dynadot Inc,09/04/2026 04:55,09/04/2027 04:55
 7218222e-0951-46e2-9cb6-7441c0646958,humourous.cc,premium,,,70,1,9,,,
 068de747-539e-43b0-b1fa-4d2a9926c95c,butif.cc,premium,,,44,1,6,,,
 57dd3849-0dd7-4499-96ba-6d27552227bf,mainman.cc,premium,,,72,3,8,,,
@@ -5778,7 +5780,7 @@ b88cd942-92e2-419a-9fb6-c2d03cab4c50,quieter.cc,premium,,,70,2,7,,,
 c1a5d36e-a201-46b3-be39-43475c756ee7,failedstate.cc,premium,,,54,2,12,,,
 41b1459d-6a57-4fe3-ab6f-7ece3cf4679b,warishell.cc,premium,,,,1,11,,,
 e110c1a2-7b3a-4b4c-96b7-a5005146eaf4,watchful.cc,premium,,,64,6,8,,,
-01cfe711-560a-4be5-ade0-ef271e5302c6,ecological.cc,resell,,,74,12,10,Dynadot Inc,20/10/2024 09:51,20/10/2030 09:51
+01cfe711-560a-4be5-ade0-ef271e5302c6,ecological.cc,resell,,,74,11,10,Dynadot Inc,20/10/2024 09:51,20/10/2030 09:51
 00ab636c-4b88-4395-82c3-d14e2716fb52,respondent.cc,premium,,,88,4,10,,,
 2f770aa7-cb86-494e-b5b3-a2c7acc744d1,perceived.cc,premium,,,69,4,9,,,
 d375d330-6b5d-4e1c-9cfe-7b824a4a3ad5,Flags.cc,resell,,,50,13,5,"Alibaba Cloud Computing (Beijing) Co., Ltd.",18/09/2019 01:24,18/09/2026 01:24
@@ -5798,6 +5800,6 @@ c20ff5e9-073d-484d-b43e-2f7f7290a967,exist.cc,resell,,,82,12,5,"NameSilo, LLC",1
 2acbd9a8-9188-42cd-a67f-03a4bdad9a19,pail.cc,premium,,,70,7,4,,,
 9679ed18-56ea-48bd-82a0-2959325397de,nonstop.cc,resell,,,98,28,7,Dynadot Inc,21/04/2023 08:02,21/04/2027 08:02
 2def7b13-ee12-4393-89a0-8e22e0a98e81,salientian.cc,premium,,,61,1,10,,,
-8dbd15da-5cfa-45ea-8afc-057169fc3688,teen.cc,resell,,,104,20,4,"GoDaddy.com, LLC",26/06/2001 04:00,26/06/2026 04:00
+8dbd15da-5cfa-45ea-8afc-057169fc3688,teen.cc,resell,,,104,19,4,"GoDaddy.com, LLC",26/06/2001 04:00,26/06/2026 04:00
 d9a20cf7-e52c-456e-bfa3-a1d0c6c3df7e,approved.cc,resell,,,58,18,8,"GoDaddy.com, LLC",27/05/1999 07:00,06/03/2026 08:00
 cbdaf29c-32c0-4a51-a740-9a2b8d78e614,subalpine.cc,premium,,,50,2,9,,,
