@@ -1,10 +1,10 @@
-# Available .CC One-Word Domains (7,916)
+# Available .CC One-Word Domains (8,060)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-7%2C916%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C060%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **7,916 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **8,060 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 7,916 domains
+**Public extract:** 1,000 rows · **Live catalog:** 8,060 domains
 
-**Last updated:** 2026-04-27  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/cc`  
 **Best for:** founders, investors, studios
 
@@ -65,25 +65,25 @@ print(df.head())
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                   |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------- |
 | regions.cc      | available | $13.98    | —             | 64             | 59     | 7      | namecheap                                   |
-| farmers.cc      | resell    | —         | —             | 54             | 59     | 7      | Spaceship, Inc.                             |
-| fillin.cc       | available | $13.98    | —             | 76             | 16     | 7      | namecheap                                   |
 | agents.cc       | resell    | —         | —             | 56             | 50     | 6      | GoDaddy.com, LLC                            |
-| moveup.cc       | available | $13.98    | —             | 79             | 14     | 7      | namecheap                                   |
+| equivalent.cc   | premium   | —         | —             | 82             | 6      | 10     | —                                           |
+| fillin.cc       | available | $13.98    | —             | 76             | 16     | 7      | namecheap                                   |
 | usa.cc          | resell    | —         | —             | 78             | 46     | 3      | Dynadot Inc                                 |
-| Ispy.cc         | available | $13.98    | —             | 76             | 14     | 5      | namecheap                                   |
-| health.cc       | resell    | —         | —             | 92             | 43     | 6      | Dynadot Inc                                 |
-| publichealth.cc | available | $13.98    | —             | 72             | 13     | 13     | namecheap                                   |
+| moveup.cc       | available | $13.98    | —             | 79             | 14     | 7      | namecheap                                   |
 | stock.cc        | resell    | —         | —             | 68             | 40     | 5      | GoDaddy.com, LLC                            |
-| sensational.cc  | available | $13.98    | —             | 78             | 12     | 11     | namecheap                                   |
+| publichealth.cc | available | $13.98    | —             | 72             | 13     | 13     | namecheap                                   |
 | WiFi.cc         | resell    | —         | —             | 83             | 37     | 5      | Spaceship, Inc.                             |
-| sandals.cc      | available | $13.98    | —             | 66             | 12     | 7      | namecheap                                   |
-| neuroscience.cc | resell    | —         | —             | 80             | 37     | 12     | Dynadot Inc                                 |
-| bethere.cc      | available | $13.98    | —             | 76             | 11     | 8      | namecheap                                   |
+| sensational.cc  | available | $13.98    | —             | 78             | 12     | 11     | namecheap                                   |
 | Cats.cc         | resell    | —         | —             | 59             | 33     | 4      | GoDaddy Online Services Cayman Islands Ltd. |
-| OrangeCounty.cc | available | $13.98    | —             | 66             | 11     | 13     | namecheap                                   |
+| sandals.cc      | available | $13.98    | —             | 66             | 12     | 7      | namecheap                                   |
 | spaces.cc       | resell    | —         | —             | 54             | 30     | 6      | GoDaddy.com, LLC                            |
-| bolts.cc        | available | $13.98    | —             | 50             | 11     | 5      | namecheap                                   |
+| bethere.cc      | available | $13.98    | —             | 76             | 11     | 8      | namecheap                                   |
 | SanDiego.cc     | resell    | —         | —             | 74             | 29     | 9      | Dynadot Inc                                 |
+| OrangeCounty.cc | available | $13.98    | —             | 66             | 11     | 13     | namecheap                                   |
+| heroes.cc       | resell    | —         | —             | 68             | 29     | 6      | GoDaddy.com, LLC                            |
+| bolts.cc        | available | $13.98    | —             | 50             | 11     | 5      | namecheap                                   |
+| quotes.cc       | resell    | —         | —             | 58             | 29     | 6      | Gname 234 Inc                               |
+| whoareyou.cc    | available | $13.98    | —             | 50             | 11     | 11     | namecheap                                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 7,916 live domains                               |
+| 1,000-row public sample | 8,060 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CC One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CC One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
