@@ -43,7 +43,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 049a5a38-5e4f-4f04-a1a0-768889644097,organisational.cc,available,13.98,,54,1,14,namecheap,,
 04d3bc5e-582f-4c17-b3be-f31bf2e085e7,bluecheckmark.cc,available,13.98,,70,2,15,namecheap,,
 0514d4ba-984c-415e-b1be-ca862124aae7,verbalization.cc,available,13.98,,58,1,13,namecheap,,
-05186dea-7592-495d-89ed-f56c4f3dab72,else.cc,resell,,,80,20,4,"NameCheap, Inc.",29/06/2025 08:01,29/06/2027 08:01
+05186dea-7592-495d-89ed-f56c4f3dab72,else.cc,resell,,,80,21,4,"NameCheap, Inc.",29/06/2025 08:01,29/06/2027 08:01
 05273141-a596-4b0d-ad8e-ac6880bad9f2,fruitvinegar.cc,available,13.98,,50,1,13,namecheap,,
 055878d7-767f-4c1f-9dac-dcd1ac62b0e0,gascooker.cc,available,13.98,,52,1,10,namecheap,,
 0563d2da-05a9-439c-b63b-86c87c0d5041,necessities.cc,resell,,,58,4,11,"GoDaddy.com, LLC",03/01/2023 16:03,03/01/2027 16:03
@@ -903,6 +903,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 669df79f-4785-4fad-b04d-11b1e0c04950,operacake.cc,available,13.98,,80,1,10,namecheap,,
 66c200be-e74b-4afe-92e1-3d3c7afbcf3d,steroids.cc,available,4.19,9.99,50,10,8,namesilo,,
 66d15063-5f4f-4964-94fd-e8d2d3094276,comeinfor.cc,available,13.98,,76,0,11,namecheap,,
+66d1a420-3c73-4b8c-9387-f4fc80460b8c,diversify.cc,resell,,,78,11,9,Dynadot Inc,28/04/2026 06:20,28/04/2027 06:20
 66e05a28-3160-4d57-9d2f-e0af728137e4,wandered.cc,available,13.98,,56,4,8,namecheap,,
 66f48a69-0ac2-44d2-a1ac-1f35a7087639,manualworker.cc,available,13.98,,42,0,13,namecheap,,
 672cf87b-e03c-41f9-bf0f-cd1beeb6b724,stepoff.cc,available,13.98,,68,2,8,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7206fb46-62cd-4a32-a33a-975cd82c4e2d,slowed.cc,available,13.98,,48,3,6,namecheap,,
 7236b55d-bb1c-4b60-83bf-ad1702a08787,subsets.cc,available,4.19,9.99,54,3,7,namesilo,,
 724b2399-442c-4653-89dc-244411560902,communitycolleges.cc,available,4.19,9.99,54,2,18,namesilo,,
-725ca6b7-298a-4673-a668-264c3b89c617,givearing.cc,available,13.98,,52,1,11,namecheap,,
