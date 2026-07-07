@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .cc one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 8,069 domains · **Median ask:** $7.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-07-06
+**Last updated:** 2026-07-07
 **Canonical page:** `https://unique.domains/domains/tld/cc`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,7 @@ print(df.head())
 
 | domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
 | ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| half.cc    | resell    | —         | —             | high           | low    | 4      | IONOS SE              |
 | ruled.cc   | available | $13.98    | —             | high           | low    | 5      | namecheap             |
 | add.cc     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC      |
 | Googler.cc | premium   | $13.98    | —             | high           | low    | 7      | namecheap             |
@@ -83,7 +84,6 @@ print(df.head())
 | set.cc     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC      |
 | getat.cc   | available | $4.19     | $9.99         | high           | low    | 6      | namesilo              |
 | sob.cc     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.       |
-| hardly.cc  | available | $13.98    | —             | high           | low    | 6      | namecheap             |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CC One-Word Domains*. Version 2026-07-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CC One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
