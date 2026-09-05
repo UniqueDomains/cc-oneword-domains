@@ -1,10 +1,10 @@
-# Available .CC One-Word Domains (13,914)
+# Available .CC One-Word Domains (14,131)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C914%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-14%2C131%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .cc one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,914 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **14,131 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,914 domains · **Median ask:** $5.95 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 14,131 domains · **Median ask:** $5.92 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-04
+**Last updated:** 2026-09-05
 **Canonical page:** `https://unique.domains/domains/tld/cc`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
-| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
-| achy.cc    | available | $4.19     | $9.99         | low            | low    | 4      | namesilo              |
-| add.cc     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC      |
-| Googler.cc | premium   | $13.98    | —             | high           | low    | 7      | namecheap             |
-| alar.cc    | available | $4.19     | $9.99         | low            | low    | 4      | namesilo              |
-| ala.cc     | resell    | —         | —             | high           | low    | 3      | Gname.com Pte. Ltd.   |
-| lxxi.cc    | available | $4.19     | $9.99         | low            | low    | 4      | namesilo              |
-| ass.cc     | resell    | —         | —             | low            | low    | 3      | DropCatch.com 617 LLC |
-| abuzz.cc   | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
-| dry.cc     | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.       |
-| acerb.cc   | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
-| mac.cc     | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC      |
-| acrid.cc   | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
-| oil.cc     | resell    | —         | —             | high           | low    | 3      | 22net, Inc.           |
-| aleut.cc   | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
-| old.cc     | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.       |
-| bated.cc   | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
-| set.cc     | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC      |
-| bawdy.cc   | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
-| sob.cc     | resell    | —         | —             | low            | low    | 3      | Spaceship, Inc.       |
-| eased.cc   | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar             |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------- |
+| half.cc     | resell    | —         | —             | high           | low    | 4      | IONOS SE              |
+| achy.cc     | available | $4.19     | $9.99         | low            | low    | 4      | namesilo              |
+| nutrient.cc | resell    | $4.19     | $9.99         | medium         | low    | 8      | Dynadot Inc           |
+| Googler.cc  | premium   | $13.98    | —             | high           | low    | 7      | namecheap             |
+| alar.cc     | available | $4.19     | $9.99         | low            | low    | 4      | namesilo              |
+| add.cc      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC      |
+| lxxi.cc     | available | $4.19     | $9.99         | low            | low    | 4      | namesilo              |
+| ala.cc      | resell    | —         | —             | high           | low    | 3      | Gname.com Pte. Ltd.   |
+| abuzz.cc    | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
+| ass.cc      | resell    | —         | —             | low            | low    | 3      | DropCatch.com 617 LLC |
+| acerb.cc    | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
+| dry.cc      | resell    | —         | —             | high           | low    | 3      | NameCheap, Inc.       |
+| acrid.cc    | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
+| mac.cc      | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC      |
+| aleut.cc    | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
+| oil.cc      | resell    | —         | —             | high           | low    | 3      | 22net, Inc.           |
+| bated.cc    | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
+| old.cc      | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.       |
+| bawdy.cc    | available | $4.19     | $9.99         | low            | low    | 5      | namesilo              |
+| set.cc      | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,914 live domains                        |
+| 1,000-row public sample | 14,131 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CC One-Word Domains*. Version 2026-09-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CC One-Word Domains*. Version 2026-09-05. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
