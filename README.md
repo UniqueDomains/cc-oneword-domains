@@ -4,9 +4,9 @@
 
 1,000 real .cc one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [57,073 names on .cc](https://unique.domains/tld/cc); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [57,235 names on .cc](https://unique.domains/tld/cc); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-42,203 one-word .cc names are free to register today. Cheapest first year $3.11 at Spaceship, renewal $8.26 there. 143 .cc sales in the last 12 months, median $1,006.
+42,386 one-word .cc names are free to register today. Cheapest first year $3.11 at Spaceship, renewal $8.26 there. 144 .cc sales in the last 12 months, median $1,010.
 
 Live page: [unique.domains/tld/cc](https://unique.domains/tld/cc?utm_source=github&utm_medium=referral&utm_campaign=repo_cc_oneword_domains&utm_content=top_tld_page)
 
@@ -44,14 +44,14 @@ The first 20 rows of the file, in the file's order.
 | spiraling.cc    | available | $11            | $9.99         | high           | low    | 9      |
 | courteously.cc  | available | $4.19          | $9.99         | high           | low    | 11     |
 | powerstroke.cc  | available | $4.19          | $9.99         | high           | low    | 11     |
-| fix.cc          | resell    | —              | —             | high           | medium | 3      |
 | currant.cc      | available | $11            | —             | high           | low    | 7      |
 | sophisticate.cc | available | $11            | —             | high           | low    | 12     |
 | tastes.cc       | available | $4.19          | $9.99         | high           | low    | 6      |
 | letterboxing.cc | available | $3.11          | $8.26         | high           | low    | 12     |
 | swizzle.cc      | available | $4.98          | $13.98        | high           | low    | 7      |
-| fat.cc          | resell    | —              | —             | high           | low    | 3      |
 | metta.cc        | resell    | —              | —             | high           | low    | 5      |
+| continued.cc    | available | $35            | $35           | high           | low    | 9      |
+| costal.cc       | available | $4.19          | $9.99         | high           | low    | 6      |
 
 ## What is in the data
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 19,592 names in the live list today.
+- The files hold 1,000 rows of the 19,672 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
